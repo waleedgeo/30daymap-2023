@@ -9,7 +9,7 @@
 
 ✨Please feel free to give suggestions & share!
 
-📍 Data Source: https://data.humdata.org/m/dataset/global-active-archive-of-large-flood-events-dfoi
+📍 Data Source: https://data.humdata.org/dataset/global-active-archive-of-large-flood-events-dfo
 
 🔗Download the high-resolution version: [Link](/data/figs/1_points.png)
 
@@ -27,9 +27,9 @@ Day 2 of 30-Day Map Challenge: Lines
 
 🗺️ Today's Map: Global Shipping Routes ⛴️
 
-![d2](/data/figs/2_lines_v1.png)
-
 ![d2](/data/figs/2_lines_v2.png)
+
+![d2](/data/figs/2_lines_v1.png)
 
 The map shows the major, moderate, and minor shipping routes globally. I got inspiration from Prof. [Qiusheng Wu](https://www.linkedin.com/in/giswqs/) paper in [JOSS](https://doi.org/10.21105/joss.03414) about the Python package [Leafmap](https://leafmap.org/) for these visualizations.
 While making the map, I got obsessed with these two colors so including both of them here.
