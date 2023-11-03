@@ -46,3 +46,23 @@ While making the map, I got obsessed with these two colors so including both of 
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #globalshipping #visualization #lines
 
 ---
+
+Day 3 of 30-Day Map Challenge: Polygons
+
+🗺️ Topic: Urbanization Trends in Lagos, Nigeria (1985-2018)
+
+![d3](/data/figs/d3_polygons.png)
+
+Mapping urbanization patterns always fascinates me. So, for the polygon theme, I used QGIS & #geemap, created a fishnet (~1 Km), and sampled the urban pixels in each zone.
+The map reveals that Lagos city has experienced rapid urbanization, with the urban area growing exponentially over the past few decades, especially after 2000's era. 
+
+🔗 [High Resolution Version](/data/figs/d3_polygons.png)
+
+📍 Data Source: [Tsinghua FROM-GLC Year of Change to Impervious Surface](https://developers.google.com/earth-engine/datasets/catalog/Tsinghua_FROM-GLC_GAIA_v10)
+
+🎨Tools used: QGIS, Google Earth Engine (Geemap) and Adobe Illustrator.
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #visualization #spatialanalysis #lagos #nigeria #urbanization
+
+ ---
+ 
