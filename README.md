@@ -71,11 +71,13 @@ The map reveals that Lagos city has experienced rapid urbanization, with the urb
 
 ![d4](/data/d4_badmap/d4_badmap.png)
 
-Maybe the most easiest theme of the challenge, but still a very important message about common mistakes most of us makes.
-1) Extra text is not always a good case!, about cluster of text, and use simple attribute labels where possible.
-2) Unwanted colors: not all maps needs colors and sometimes unintentional use of colors can convey wrong information. For instance here sequential choropleth colors are used based on ADM2 property WHICH DOES NOT MAKES SENSE!
+It may be the easiest theme of the challenge, but always make sure to avoid such common mistakes in cartographic designs: 
+
+1) Extra text is not always a good case! AVOID clusters of text, and use simple attribute labels where possible.
+
+2) Unwanted colors: not all maps need colors, and sometimes unintentional use of colors can convey the wrong message. For instance, here, sequential choropleth colors are used based on ADM2 property, WHICH DOES NOT MAKE SENSE!
  
-🔗 High Resolution Version: https://github.com/waleedgeo/30daymap-2023/blob/main/data/figs/d3_polygons.png
+🔗 High Resolution Version: [LINK](https://github.com/waleedgeo/30daymap-2023/blob/main/data/figs/d3_polygons.png)
 
 🔗 All Project files: [LINK](/data/d4_badmap/)
 
