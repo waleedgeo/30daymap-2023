@@ -1,9 +1,8 @@
-# Day 1 of 30-Day Map Challenge: Points
+## Day 1 of 30-Day Map Challenge: Points
+
+### 🗺️ Topic: Global Flood Affected People
 
 ![Imgur](/data/figs/1_points.png)
-
-
-🗺️ Today's Map: Global Flood Affected People
 
 📊 Since I have been working on flood modeling for over a year, I wanted to start the map challenge with the flood topic. This map shows where people were reported to be affected by major flood events between 1985-2010. The most affected regions include the US (Dallas, Pennsylvania), South America (Brazil, Bolivia), Africa (Burkina Faso, Gao, Botswana), Asia (Pakistan, India, Bangladesh), and Australia. Moreover, people in coastal cities were observed to be more frequently affected than the rest.
 
@@ -23,9 +22,9 @@
 
 ---
 
-Day 2 of 30-Day Map Challenge: Lines
+## Day 2 of 30-Day Map Challenge: Lines
 
-🗺️ Today's Map: Global Shipping Routes ⛴️
+### 🗺️ Topic: Global Shipping Routes ⛴️
 
 ![d2](/data/figs/2_lines_v2.png)
 
@@ -47,9 +46,9 @@ While making the map, I got obsessed with these two colors so including both of 
 
 ---
 
-Day 3 of 30-Day Map Challenge: Polygons
+## Day 3 of 30-Day Map Challenge: Polygons
 
-🗺️ Topic: Urbanization Trends in Lagos, Nigeria (1985-2018)
+### 🗺️ Topic: Urbanization Trends in Lagos, Nigeria (1985-2018)
 
 ![d3](/data/figs/d3_polygons.png)
 
@@ -65,4 +64,25 @@ The map reveals that Lagos city has experienced rapid urbanization, with the urb
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #visualization #spatialanalysis #lagos #nigeria #urbanization
 
  ---
+
+## Day 4 of 30-Day Map Challenge: Bad Map
+
+## 🗺️ Topic: A bad map of prefecture-level divisions of China
+
+![d4](/data/d4_badmap/d4_badmap.png)
+
+Maybe the most easiest theme of the challenge, but still a very important message about common mistakes most of us makes.
+1) Extra text is not always a good case!, about cluster of text, and use simple attribute labels where possible.
+2) Unwanted colors: not all maps needs colors and sometimes unintentional use of colors can convey wrong information. For instance here sequential choropleth colors are used based on ADM2 property WHICH DOES NOT MAKES SENSE!
  
+🔗 High Resolution Version: https://github.com/waleedgeo/30daymap-2023/blob/main/data/figs/d3_polygons.png
+
+🔗 All Project files: [LINK](/data/d4_badmap/)
+
+Note: for this project, I have uploaded all files (shapefile, QGIS project files etc. You can check the [GitHub repo above](/data/d4_badmap/))
+
+📍 Data Source: Humdata (data also provided on GitHub)
+
+🎨 Tools used: QGIS, Adobe Illustrator and Photoshop
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #30DayMapChallenge #BadMap #China #QGIS #Carto #Cartography #GIS #Geospatial #DataViz
