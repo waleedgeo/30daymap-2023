@@ -79,7 +79,7 @@ It may be the easiest theme of the challenge, but always make sure to avoid such
  
 🔗 High Resolution Version: [LINK](https://github.com/waleedgeo/30daymap-2023/blob/main/data/figs/d3_polygons.png)
 
-🔗 All Project files: [LINK](/data/d4_badmap/)
+🔗 All Project files for Day-4: [LINK](/data/d4_badmap/)
 
 Note: for this project, I have uploaded all files (shapefile, QGIS project files etc. You can check the [GitHub repo above](/data/d4_badmap/))
 
@@ -88,3 +88,25 @@ Note: for this project, I have uploaded all files (shapefile, QGIS project files
 🎨 Tools used: QGIS, Adobe Illustrator and Photoshop
 
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #30DayMapChallenge #BadMap #China #QGIS #Carto #Cartography #GIS #Geospatial #DataViz
+
+ ---
+
+ 💫 Day 5 of 30-Day Map Challenge: Analog Map
+🗺️ Topic: Analog Map of Floods in Pakistan (2010)
+
+Click the video to see the timelapse:
+[![Watch the video](https://img.youtube.com/vi/Ahshgcd9FR8/hqdefault.jpg)](https://www.youtube.com/embed/Ahshgcd9FR8)
+
+This is by far the most difficult day for me. Being a digital cartographer, I have only thought of making a map with a computer. For this day, I looked into previous year's challenges and loved how they used day-to-day things to create a map. I quickly looked around and saw some shining red beans in my kitchen, and the rest you can see 😂
+
+✨ Inspiration was taken from: [TWITTER LINK](https://twitter.com/issa_madjid/status/1593319907894099969)
+
+🔗 High-Resolution Version (you probably won't need it, but just in case 😂): [LINK](https://github.com/waleedgeo/30daymap-2023/blob/main/data/d5_analogmap/d5_analogmap.png)
+
+🔗 All Project files for Day-5:  [LINK](/data/d5_analogmap/)
+
+🎨 Tools used: Shining Red Beans, Tapioca Pearl (Sabudana), and some glue.
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping
+
+---
