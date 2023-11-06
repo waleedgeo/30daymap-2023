@@ -1,11 +1,12 @@
 ## Table of Content:
 
-- [Day 1 of 30-Day Map Challenge: Points (Global Forest Affected People)](#-day-1-of-30-day-map-challenge-points)
-- [Day 2 of 30-Day Map Challenge: Lines (Global Shipping Routes)](#-day-2-of-30-day-map-challenge-lines)
-- [Day 3 of 30-Day Map Challenge: Polygons (Urbanization Trends in Lagos, Nigeria)](#-day-3-of-30-day-map-challenge-polygons)
-- [Day 4 of 30-Day Map Challenge: Bad Map (A bad map of prefecture-level divisions of China)](#-day-4-of-30-day-map-challenge-bad-map)
-- [Day 5 of 30-Day Map Challenge: Analog Map (Analog Map of Floods in Pakistan)](#-day-5-of-30-day-map-challenge-analog-map)
-- [Day 6 of 30-Day Map Challenge: Asia (Asia's River Network)](#-day-6-of-30-day-map-challenge-asia)
+- [Day 1 Points: Global Forest Affected People](#-day-1-of-30-day-map-challenge-points)
+- [Day 2 Lines: Global Shipping Routes](#-day-2-of-30-day-map-challenge-lines)
+- [Day 3 Polygons: Urbanization Trends in Lagos, Nigeria](#-day-3-of-30-day-map-challenge-polygons)
+- [Day 4 Bad Map: A bad map of prefecture-level divisions of China](#-day-4-of-30-day-map-challenge-bad-map)
+- [Day 5 Analog Map: Analog Map of Floods in Pakistan](#-day-5-of-30-day-map-challenge-analog-map)
+- [Day 6 Asia: Asia's River Network](#-day-6-of-30-day-map-challenge-asia)
+
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
 
@@ -104,10 +105,14 @@ Note: for this project, I have uploaded all files (shapefile, QGIS project files
 
 ### 🗺️ Topic: Analog Map of Floods in Pakistan (2010)
 
-Click the video to see the timelapse:
-[![Watch the video](https://img.youtube.com/vi/Ahshgcd9FR8/hqdefault.jpg)](https://www.youtube.com/embed/Ahshgcd9FR8)
+_Click the image to see the timelapse:_
+
+[![d5Foo](/data/d5_analogmap/day5_analogmap.JPG)](https://www.youtube.com/embed/Ahshgcd9FR8)
+
 
 This is by far the most difficult day for me. Being a digital cartographer, I have only thought of making a map with a computer. For this day, I looked into previous year's challenges and loved how they used day-to-day things to create a map. I quickly looked around and saw some shining red beans in my kitchen, and the rest you can see 😂
+
+📽️ Timelapse Video: [LINK](https://www.youtube.com/embed/Ahshgcd9FR8)
 
 ✨ Inspiration was taken from: [TWITTER LINK](https://twitter.com/issa_madjid/status/1593319907894099969)
 
