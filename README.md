@@ -1,13 +1,13 @@
 ## Table of Content:
 
-- [Day 1 of 30-Day Map Challenge: Points (Global Forest Affected People)](#day-1-of-30-day-map-challenge-points)
-- [Day 2 of 30-Day Map Challenge: Lines (Global Shipping Routes)](#day-2-of-30-day-map-challenge-lines)
-- [Day 3 of 30-Day Map Challenge: Polygons (Urbanization Trends in Lagos, Nigeria)](#day-3-of-30-day-map-challenge-polygons)
-- [Day 4 of 30-Day Map Challenge: Bad Map (A bad map of prefecture-level divisions of China)](#day-4-of-30-day-map-challenge-bad-map)
-- [Day 5 of 30-Day Map Challenge: Analog Map (Analog Map of Floods in Pakistan)](#day-5-of-30-day-map-challenge-analog-map)
-- [Day 6 of 30-Day Map Challenge: Asia (Asia's River Network)](#day-6-of-30-day-map-challenge-asia)
+- [Day 1 of 30-Day Map Challenge: Points (Global Forest Affected People)](#-day-1-of-30-day-map-challenge-points)
+- [Day 2 of 30-Day Map Challenge: Lines (Global Shipping Routes)](#-day-2-of-30-day-map-challenge-lines)
+- [Day 3 of 30-Day Map Challenge: Polygons (Urbanization Trends in Lagos, Nigeria)](#-day-3-of-30-day-map-challenge-polygons)
+- [Day 4 of 30-Day Map Challenge: Bad Map (A bad map of prefecture-level divisions of China)](#-day-4-of-30-day-map-challenge-bad-map)
+- [Day 5 of 30-Day Map Challenge: Analog Map (Analog Map of Floods in Pakistan)](#-day-5-of-30-day-map-challenge-analog-map)
+- [Day 6 of 30-Day Map Challenge: Asia (Asia's River Network)](#-day-6-of-30-day-map-challenge-asia)
 
-## Day 1 of 30-Day Map Challenge: Points
+## 💫 Day 1 of 30-Day Map Challenge: Points
 
 ### 🗺️ Topic: Global Flood Affected People
 
@@ -31,7 +31,7 @@
 
 ---
 
-## Day 2 of 30-Day Map Challenge: Lines
+## 💫 Day 2 of 30-Day Map Challenge: Lines
 
 ### 🗺️ Topic: Global Shipping Routes ⛴️
 
@@ -55,7 +55,7 @@ While making the map, I got obsessed with these two colors so including both of 
 
 ---
 
-## Day 3 of 30-Day Map Challenge: Polygons
+## 💫 Day 3 of 30-Day Map Challenge: Polygons
 
 ### 🗺️ Topic: Urbanization Trends in Lagos, Nigeria (1985-2018)
 
@@ -74,7 +74,7 @@ The map reveals that Lagos city has experienced rapid urbanization, with the urb
 
  ---
 
-## Day 4 of 30-Day Map Challenge: Bad Map
+## 💫 Day 4 of 30-Day Map Challenge: Bad Map
 
 ## 🗺️ Topic: A bad map of prefecture-level divisions of China
 
