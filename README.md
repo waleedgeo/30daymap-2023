@@ -1,10 +1,10 @@
 ## Table of Content:
 
-- [Day 1 Points: Global Forest Affected People](#-day-1-of-30-day-map-challenge-points)
+- [Day 1 Points: Global Flood Affected People](#-day-1-of-30-day-map-challenge-points)
 - [Day 2 Lines: Global Shipping Routes](#-day-2-of-30-day-map-challenge-lines)
 - [Day 3 Polygons: Urbanization Trends in Lagos, Nigeria](#-day-3-of-30-day-map-challenge-polygons)
 - [Day 4 Bad Map: A bad map of prefecture-level divisions of China](#-day-4-of-30-day-map-challenge-bad-map)
-- [Day 5 Analog Map: Analog Map of Floods in Pakistan](#-day-5-of-30-day-map-challenge-analog-map)
+- [Day 5 Analog Map: Floods in Pakistan](#-day-5-of-30-day-map-challenge-analog-map)
 - [Day 6 Asia: Asia's River Network](#-day-6-of-30-day-map-challenge-asia)
 
 
