@@ -132,7 +132,7 @@ This is by far the most difficult day for me. Being a digital cartographer, I ha
 
 ![d6](/data/d6_asia/d6_asia.png)
 
-Asia is well known for its river network, as the hydrographic network is well developed in the north, east and south of the continent. Some of the world's largest river systems are in Asia including the Ganges and Brahmaputra, Yangtze, Yenisei, Lena, Ob, Amur and Mekong.
+Asia is well known for its river network, which is well-developed in the north, east, and south of the continent. Moreover, some of the world's largest river systems are in Asia, namely the Ganges and Brahmaputra, Yangtze, Yenisei, Lena, Ob, Amur, and Mekong.
 
 🔗 High Resolution Version: [LINK](/data/d6_asia/d6_asia.png)
 
