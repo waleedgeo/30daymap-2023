@@ -151,7 +151,7 @@ Asia is well known for its river network, which is well-developed in the north, 
 
 ![d7](/data/d7_navigation/d7_navigation.png)
 
-Bright colors on dark canvas always fascinate me. So here's my take on visualizing a road network and a destination route. The map shows my daily travel route from my home in Shum Shui Po, to my campus, Hong Kong Baptist University. The road network in neon blue is shown for just Kowloon, in which the red lines show the route. The road network with the route was prepared using the osmnx python package and was later edited in Adobe Illustrator.
+Bright colors on dark canvas always fascinate me. So here's my take on visualizing a road network and a destination route. The map shows my daily travel route from my home in Shum Shui Po, to my campus, Hong Kong Baptist University. The road network in neon blue is shown for just Kowloon, in which the red lines show the route. The road network with the route was prepared using the OSMnx python package and was later edited in Adobe Illustrator.
  
 🔗 High Resolution Version: [LINK](/data/d7_navigation/d7_navigation.png)
 
@@ -164,4 +164,3 @@ Bright colors on dark canvas always fascinate me. So here's my take on visualizi
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #navigation #osm #openstreetmap
 
  ---
- 
