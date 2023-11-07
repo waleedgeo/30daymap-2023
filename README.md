@@ -6,6 +6,7 @@
 - [Day 4 Bad Map: A bad map of prefecture-level divisions of China](#-day-4-of-30-day-map-challenge-bad-map)
 - [Day 5 Analog Map: Floods in Pakistan](#-day-5-of-30-day-map-challenge-analog-map)
 - [Day 6 Asia: Asia's River Network](#-day-6-of-30-day-map-challenge-asia)
+- [Day 7 Navigation: Home to University](#-day-7-of-30-day-map-challenge-navigation)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -144,3 +145,23 @@ Asia is well known for its river network, which is well-developed in the north, 
 
 ---
 
+## 💫 Day 7 of 30-Day Map Challenge: Navigation
+
+### 🗺️ Topic: Home to University!
+
+![d7](/data/d7_navigation/d7_navigation.png)
+
+Bright colors on dark canvas always fascinate me. So here's my take on visualizing a road network and a destination route. The map shows my daily travel route from my home in Shum Shui Po, to my campus, Hong Kong Baptist University. The road network in neon blue is shown for just Kowloon, in which the red lines show the route. The road network with the route was prepared using the osmnx python package and was later edited in Adobe Illustrator.
+ 
+🔗 High Resolution Version: [LINK](/data/d7_navigation/d7_navigation.png)
+
+🔗 All Project files:  [LINK](/data/d7_navigation/)
+
+📍 Data Source: OpenStreetMap (OSM) and [OSMnx python package](https://osmnx.readthedocs.io/en/stable/) 
+
+🎨 Tools used: OSMnx Python Package, and Adobe Illustrator.
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #navigation #osm #openstreetmap
+
+ ---
+ 
