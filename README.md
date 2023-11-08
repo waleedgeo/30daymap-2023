@@ -7,6 +7,7 @@
 - [Day 5 Analog Map: Floods in Pakistan](#-day-5-of-30-day-map-challenge-analog-map)
 - [Day 6 Asia: Asia's River Network](#-day-6-of-30-day-map-challenge-asia)
 - [Day 7 Navigation: Home to University](#-day-7-of-30-day-map-challenge-navigation)
+- [Day 8 Africa: Diorama of Mount Kilimanjaro](#-day8-of-30-day-map-challenge-africa)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -164,3 +165,23 @@ Bright colors on dark canvas always fascinate me. So here's my take on visualizi
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #navigation #osm #openstreetmap
 
  ---
+
+## 💫 Day8 of 30-Day Map Challenge: Africa
+
+### 🗺️ Topic: Diorama of Mount Kilimanjaro
+
+![d8](/data/d8_africa/d8_africa.png)
+
+Mount Kilimanjaro, located in Tanzania, is Africa's highest peak, standing tall at 5,895 meters. The reason I chose this place is because of Its unique blend of breathtaking beauty and iconic stature. Special thanks to John Nelson, who provided an amazing tutorial for designing 3D Diorama in ArcGIS Pro.
+
+🔗 High Resolution Version: [LINK](/data/d8_africa/d8_africa.png)
+
+📍 Data Source: [Copernicus DEM GLO-30](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30)
+
+🎨 Tools used: ArcGIS Pro and Adobe Illustrator.
+
+✨ John Nelson's Tutorial on Diorama: [LINK](https://www.youtube.com/watch?v=kVsj6Z7UuLY&t=590s)
+
+#30DayMapChallenge #DataVisualization #Cartography #Mapping #kilimanjaro #diorama #3d #arcgispro
+
+---
