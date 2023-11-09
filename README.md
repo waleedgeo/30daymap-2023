@@ -8,6 +8,7 @@
 - [Day 6 Asia: Asia's River Network](#-day-6-of-30-day-map-challenge-asia)
 - [Day 7 Navigation: Home to University](#-day-7-of-30-day-map-challenge-navigation)
 - [Day 8 Africa: Diorama of Mount Kilimanjaro](#-day8-of-30-day-map-challenge-africa)
+- [Day 9 Hexagons: Global Aridity Index](#-day-9-of-30-day-map-challenge-hexagons)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -183,5 +184,26 @@ Mount Kilimanjaro, located in Tanzania, is Africa's highest peak, standing tall 
 ✨ John Nelson's Tutorial on Diorama: [LINK](https://www.youtube.com/watch?v=kVsj6Z7UuLY&t=590s)
 
 #30DayMapChallenge #DataVisualization #Cartography #Mapping #kilimanjaro #diorama #3d #arcgispro
+
+---
+
+## 💫 Day 9 of 30-Day Map Challenge: Hexagons
+
+## 🗺️ Topic: Global Aridity Index
+
+![d9](/data/d9_hexagons/d9_hexagons.png)
+
+For today's theme, I created hexagons in ArcGIS Pro ( using Generate Tessellation tools), resampled them in Google Earth Engine, and visualized in QGIS + Illustrator. Each hexagon has a diameter of approx. 110 Km2.
+The Global aridity index is an important indicator because it provides a comprehensive visual representation of areas worldwide that experience varying degrees of aridity, helping researchers and policymakers understand and address water scarcity issues. Moreover, the aridity index is a crucial metric for assessing the availability of water resources and predicting potential drought-prone regions, enabling proactive measures for water management and conservation.
+
+🔗 High-Resolution Version: [LINK](/data/d9_hexagons/d9_hexagons.png)
+
+📍 Data Source: [LINK](https://gee-community-catalog.org/projects/ai0/?h=aridit)
+
+🔗 Generate Tessellation tools: [LINK](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/generatetesellation.htm)
+
+🎨 Tools used: Google Earth Engine, QGIS, and Adobe Illustrator.
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #hexagon #aridity #globalaridityindex #drought
 
 ---
