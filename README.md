@@ -167,7 +167,7 @@ Bright colors on dark canvas always fascinate me. So here's my take on visualizi
 
  ---
 
-## 💫 Day8 of 30-Day Map Challenge: Africa
+## 💫 Day 8 of 30-Day Map Challenge: Africa
 
 ### 🗺️ Topic: Diorama of Mount Kilimanjaro
 
@@ -193,8 +193,9 @@ Mount Kilimanjaro, located in Tanzania, is Africa's highest peak, standing tall 
 
 ![d9](/data/d9_hexagons/d9_hexagons.png)
 
-For today's theme, I created hexagons in ArcGIS Pro ( using Generate Tessellation tools), resampled them in Google Earth Engine, and visualized in QGIS + Illustrator. Each hexagon has a diameter of approx. 110 Km2.
-The Global aridity index is an important indicator because it provides a comprehensive visual representation of areas worldwide that experience varying degrees of aridity, helping researchers and policymakers understand and address water scarcity issues. Moreover, the aridity index is a crucial metric for assessing the availability of water resources and predicting potential drought-prone regions, enabling proactive measures for water management and conservation.
+For today's theme, I created hexagons in ArcGIS Pro (using the Generate Tessellation tool), resampled them in Google Earth Engine with Global Aridity Index (GAI) data, and visualized them in QGIS + Illustrator. Each hexagon has a circumradius of approx. 15 Km.
+
+GAI is an important indicator because it provides a comprehensive visual representation of areas worldwide that experience varying degrees of aridity, helping researchers and policymakers understand and address water scarcity issues. Moreover, the aridity index is a crucial metric for assessing the availability of water resources and predicting potential drought-prone regions, enabling proactive measures for water management and conservation.
 
 🔗 High-Resolution Version: [LINK](/data/d9_hexagons/d9_hexagons.png)
 
