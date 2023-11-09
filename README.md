@@ -201,7 +201,7 @@ GAI is an important indicator because it provides a comprehensive visual represe
 
 📍 Data Source: [LINK](https://gee-community-catalog.org/projects/ai0/?h=aridit)
 
-🔗 Generate Tessellation tools: [LINK](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/generatetesellation.htm)
+🔗 Generate Tessellation tool: [LINK](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/generatetesellation.htm)
 
 🎨 Tools used: Google Earth Engine, QGIS, and Adobe Illustrator.
 
