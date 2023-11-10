@@ -219,7 +219,7 @@ GAI is an important indicator because it provides a comprehensive visual represe
 I have always admired animated maps/gifs for conveying time-series information. So, for the North American theme, I used the North American Drought Monitor (NADM) dataset in Google Earth Engine.
 The animated map shows that in 2023, North America experienced significant drought variations, with regions like California and the Great Plains facing severe water scarcity, impacting agriculture and increasing the risk of wildfires.
 
-For designing the map I first assessed the NADM dataset from Awesome GEE Community Catalog, and then exported individual maps with Orthographic projection using  geemap.cartoee module. Later on, I finalized the maps in Illustrator and Photoshop.
+For designing the animated map, I first assessed the NADM dataset from Awesome GEE Community Catalog, and then exported individual maps with Orthographic projection using  geemap.cartoee module. Later on, I finalized the maps in Illustrator and Photoshop.
 
 Shout-out to Prof. [Qiusheng Wu](https://wetlands.io/) for including cartoee in geemap, and [Samapriya Roy, Ph.D.](https://www.linkedin.com/in/samapriya) for maintaining the Awesome GEE Community Catalog!
 
