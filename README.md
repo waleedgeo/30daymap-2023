@@ -9,6 +9,7 @@
 - [Day 7 Navigation: Home to University](#-day-7-of-30-day-map-challenge-navigation)
 - [Day 8 Africa: Diorama of Mount Kilimanjaro](#-day8-of-30-day-map-challenge-africa)
 - [Day 9 Hexagons: Global Aridity Index](#-day-9-of-30-day-map-challenge-hexagons)
+- [Day 10 North America: Drought in North America](#-day-10-of-30-day-map-challenge-north-america)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -208,3 +209,30 @@ GAI is an important indicator because it provides a comprehensive visual represe
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #hexagon #aridity #globalaridityindex #drought
 
 ---
+
+## 💫 Day 10 of 30-Day Map Challenge: North America 
+
+### 🗺️ Topic: Drought in North America (2023)
+
+![d10](/data/d10_north_america/d10_north_america_optimized.gif)
+
+I have always admired animated maps/gifs for conveying time-series information. So, for the North American theme, I used the North American Drought Monitor (NADM) dataset in Google Earth Engine.
+The animated map shows that in 2023, North America experienced significant drought variations, with regions like California and the Great Plains facing severe water scarcity, impacting agriculture and increasing the risk of wildfires.
+
+For designing the map I first assessed the NADM dataset from Awesome GEE Community Catalog, and then exported individual maps with Orthographic projection using  geemap.cartoee module. Later on, I finalized the maps in Illustrator and Photoshop.
+
+Shout-out to Prof. [Qiusheng Wu](https://wetlands.io/) for including cartoee in geemap, and [Samapriya Roy, Ph.D.](https://www.linkedin.com/in/samapriya) for maintaining the Awesome GEE Community Catalog!
+
+🔗 High Resolution Version: [LINK](/data/d10_north_america/d10_north_america.gif)
+
+📍 Data Source: [LINK](https://gee-community-catalog.org/projects/nadm/?h=drought)
+
+🔗 Geemap (Cartoee): [LINK](https://geemap.org/cartoee/)
+
+🔗 Awsome GEE Community Catalog: [LINK](https://gee-community-catalog.org/)
+
+🎨 Tools used: Google Earth Engine, Geemap, cartoee, cartopy, python, Adobe Illustrator and Photoshop
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #GoogleEarthEngine, #Geemap, #cartoee, #cartopy
+
+ ---
