@@ -10,7 +10,7 @@
 - [Day 8 Africa: Diorama of Mount Kilimanjaro](#-day8-of-30-day-map-challenge-africa)
 - [Day 9 Hexagons: Global Aridity Index](#-day-9-of-30-day-map-challenge-hexagons)
 - [Day 10 North America: Drought in North America](#-day-10-of-30-day-map-challenge-north-america)
-
+- [Day 11 Retro: A 3D Digitized Old Map of Balochistan](#-day-11-of-30-day-map-challenge-retro)
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
 
@@ -236,3 +236,21 @@ Shout-out to Prof. [Qiusheng Wu](https://wetlands.io/) for including cartoee in 
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #GoogleEarthEngine, #Geemap, #cartoee, #cartopy
 
  ---
+
+## 💫 Day 11 of 30-Day Map Challenge: Retro
+
+## 🗺️ Topic: A 3D Digitized Old Map of Balochistan
+
+![d11](/data/d11_retro/d11_retro.JPG)
+
+As a retro theme, I choose an old map of Balochistan (Pakistan), from the Imperial Gazetteer of India (1907-1909). Since the map resolution was low, I find it quite difficult to georeference and render it in 3D but still I managed (thanks to John Nelson amazing tutorials on vintage theme maps).
+
+🔗 High Resolution Version: [LINK](/data/d11_retro/d11_retro.JPG)
+
+📍 Data Source: [LINK](https://en.m.wikipedia.org/wiki/File:Map_of_Baluchistan_from_The_Imperial_Gazetteer_of_India_%281907-1909%29.jpg)
+
+🎨 Tools used: ArcGIS Pro, and Adobe Illustrator.
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #balochistan #gis
+
+---
