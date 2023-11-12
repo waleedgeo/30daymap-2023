@@ -11,6 +11,7 @@
 - [Day 9 Hexagons: Global Aridity Index](#-day-9-of-30-day-map-challenge-hexagons)
 - [Day 10 North America: Drought in North America](#-day-10-of-30-day-map-challenge-north-america)
 - [Day 11 Retro: A 3D Digitized Old Map of Balochistan](#-day-11-of-30-day-map-challenge-retro)
+- [Day 12 South America: MANAUS City](#-day-12-of-30-day-map-challenge-south-america)
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
 
@@ -254,3 +255,25 @@ As a retro theme, I choose an old map of Balochistan (Pakistan), from the Imperi
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #balochistan #gis
 
 ---
+
+## 💫 Day 12 of 30-Day Map Challenge: South America
+
+### 🗺️ Topic: MANAUS City: Where Civilization Meets Wilderness
+
+![d12](/data/d12_south_america/d12_sa.jpg)
+
+A few weeks ago, I saw an aerial image of this place on social media and was instantly in love with the beauty of its landscape. So for today's theme, I chose this place called Manaus, located on the banks of the Negro River in northwestern Brazil.
+
+For preparing this map poster, I used Maxar basemap image for 2021 and edited them directly in Adobe Photoshop and then Illustrator. I intended to print this as a wall poster and therefore processed all data in 8K resolution, which resulted in around 200 MB of image size.  Here, I am sharing the compressed version (~7 MB, and 300dpi). So, if you need that very high resolution, request it on GitHub, and I will happily provide it.
+
+🔗 High-Resolution Version: [LINK](/data/d12_south_america/d12_sa.jpg)
+
+🔗 Google Maps Location: [LINK](https://www.google.com/maps/place/Manaus,+State+of+Amazonas,+Brazil/@-3.044662,-59.9671039,12z/data=!3m1!4b1!4m6!3m5!1s0x926c1bc8b37647b7:0x2b485c9ff765a9cc!8m2!3d-3.1190275!4d-60.0217314!16zL20vMDJia2sz?entry=ttu)
+
+📍 Data Source: Maxar Basemap for 2021
+
+🎨 Tools used: Google Earth Pro, Adobe Illustrator, and Photoshop
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #manaus #brazil #poster
+
+ ---
