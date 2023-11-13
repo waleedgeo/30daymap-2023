@@ -1,3 +1,8 @@
+**Note:** 
+- _Click on each map, to see its high resolution version!_
+- _All project files are available in the [data folder](/data/)._
+- More data will be added as the challenge progresses.
+
 ## Table of Content:
 
 - [Day 1 Points: Global Flood Affected People](#-day-1-of-30-day-map-challenge-points)
@@ -12,12 +17,14 @@
 - [Day 10 North America: Drought in North America](#-day-10-of-30-day-map-challenge-north-america)
 - [Day 11 Retro: A 3D Digitized Old Map of Balochistan](#-day-11-of-30-day-map-challenge-retro)
 - [Day 12 South America: MANAUS City](#-day-12-of-30-day-map-challenge-south-america)
+- [Day 13 Choropleth: Nighttime Light in Palestine 2023](#-day-13-of-30-day-map-challenge-choropleth)
+
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
 
 ### 🗺️ Topic: Global Flood Affected People
 
-![Imgur](/data/figs/1_points.png)
+[![Imgur](https://imgur.com/az9kzUM.png)](/data/figs/1_points.png)
 
 📊 Since I have been working on flood modeling for over a year, I wanted to start the map challenge with the flood topic. This map shows where people were reported to be affected by major flood events between 1985-2010. The most affected regions include the US (Dallas, Pennsylvania), South America (Brazil, Bolivia), Africa (Burkina Faso, Gao, Botswana), Asia (Pakistan, India, Bangladesh), and Australia. Moreover, people in coastal cities were observed to be more frequently affected than the rest.
 
@@ -41,9 +48,9 @@
 
 ### 🗺️ Topic: Global Shipping Routes ⛴️
 
-![d2](/data/figs/2_lines_v2.png)
+[![d2](https://imgur.com/EmVH2hi.png)](/data/figs/2_lines_v2.png)
 
-![d2](/data/figs/2_lines_v1.png)
+[![d2](https://imgur.com/KKszEqG.png)](/data/figs/2_lines_v1.png)
 
 The map shows the major, moderate, and minor shipping routes globally. I got inspiration from Prof. [Qiusheng Wu](https://www.linkedin.com/in/giswqs/) paper in [JOSS](https://doi.org/10.21105/joss.03414) about the Python package [Leafmap](https://leafmap.org/) for these visualizations.
 While making the map, I got obsessed with these two colors so including both of them here.
@@ -65,7 +72,7 @@ While making the map, I got obsessed with these two colors so including both of 
 
 ### 🗺️ Topic: Urbanization Trends in Lagos, Nigeria (1985-2018)
 
-![d3](/data/figs/d3_polygons.png)
+[![d3](https://imgur.com/QMTnlIs.png)](/data/figs/d3_polygons.png)
 
 Mapping urbanization patterns always fascinates me. So, for the polygon theme, I used QGIS & #geemap, created a fishnet (~1 Km), and sampled the urban pixels in each zone.
 The map reveals that Lagos city has experienced rapid urbanization, with the urban area growing exponentially over the past few decades, especially after 2000's era. 
@@ -84,7 +91,7 @@ The map reveals that Lagos city has experienced rapid urbanization, with the urb
 
 ## 🗺️ Topic: A bad map of prefecture-level divisions of China
 
-![d4](/data/d4_badmap/d4_badmap.png)
+[![d4](https://imgur.com/GJ7mYnD.png)](/data/d4_badmap/d4_badmap.png)
 
 It may be the easiest theme of the challenge, but always make sure to avoid such common mistakes in cartographic designs: 
 
@@ -112,7 +119,7 @@ Note: for this project, I have uploaded all files (shapefile, QGIS project files
 
 _Click the image to see the timelapse:_
 
-[![d5Foo](/data/d5_analogmap/day5_analogmap.JPG)](https://www.youtube.com/embed/Ahshgcd9FR8)
+[![d5Foo](https://imgur.com/66u1ml5.jpg)](https://www.youtube.com/embed/Ahshgcd9FR8)
 
 
 This is by far the most difficult day for me. Being a digital cartographer, I have only thought of making a map with a computer. For this day, I looked into previous year's challenges and loved how they used day-to-day things to create a map. I quickly looked around and saw some shining red beans in my kitchen, and the rest you can see 😂
@@ -135,7 +142,7 @@ This is by far the most difficult day for me. Being a digital cartographer, I ha
 
 ### 🗺️ Topic: Asia's River Network
 
-![d6](/data/d6_asia/d6_asia.png)
+[![d6](https://imgur.com/wDcWknL.png)](/data/d6_asia/d6_asia.png)
 
 Asia is well known for its river network, which is well-developed in the north, east, and south of the continent. Moreover, some of the world's largest river systems are in Asia, namely the Ganges and Brahmaputra, Yangtze, Yenisei, Lena, Ob, Amur, and Mekong.
 
@@ -153,7 +160,7 @@ Asia is well known for its river network, which is well-developed in the north, 
 
 ### 🗺️ Topic: Home to University!
 
-![d7](/data/d7_navigation/d7_navigation.png)
+[![d7](https://imgur.com/2cGvxPT.png)](/data/d7_navigation/d7_navigation.png)
 
 Bright colors on dark canvas always fascinate me. So here's my take on visualizing a road network and a destination route. The map shows my daily travel route from my home in Shum Shui Po, to my campus, Hong Kong Baptist University. The road network in neon blue is shown for just Kowloon, in which the red lines show the route. The road network with the route was prepared using the OSMnx python package and was later edited in Adobe Illustrator.
  
@@ -173,7 +180,7 @@ Bright colors on dark canvas always fascinate me. So here's my take on visualizi
 
 ### 🗺️ Topic: Diorama of Mount Kilimanjaro
 
-![d8](/data/d8_africa/d8_africa.png)
+[![d8](https://imgur.com/pTMp4XD.png)](/data/d8_africa/d8_africa.png)
 
 Mount Kilimanjaro, located in Tanzania, is Africa's highest peak, standing tall at 5,895 meters. The reason I chose this place is because of Its unique blend of breathtaking beauty and iconic stature. Special thanks to John Nelson, who provided an amazing tutorial for designing 3D Diorama in ArcGIS Pro.
 
@@ -193,7 +200,7 @@ Mount Kilimanjaro, located in Tanzania, is Africa's highest peak, standing tall 
 
 ## 🗺️ Topic: Global Aridity Index
 
-![d9](/data/d9_hexagons/d9_hexagons.png)
+[![d9](https://imgur.com/5cugyuA.png)](/data/d9_hexagons/d9_hexagons.png)
 
 For today's theme, I created hexagons in ArcGIS Pro (using the Generate Tessellation tool), resampled them in Google Earth Engine with Global Aridity Index (GAI) data, and visualized them in QGIS + Illustrator. Each hexagon has a circumradius of approx. 15 Km.
 
@@ -215,7 +222,7 @@ GAI is an important indicator because it provides a comprehensive visual represe
 
 ### 🗺️ Topic: Drought in North America (2023)
 
-![d10](/data/d10_north_america/d10_na_optimized.gif)
+[![d10](https://imgur.com/zQVkL83.gif)](/data/d10_north_america/d10_na_optimized.gif)
 
 I have always admired animated maps/gifs for conveying time-series information. So, for the North American theme, I used the North American Drought Monitor (NADM) dataset in Google Earth Engine.
 The animated map shows that in 2023, North America experienced significant drought variations, with regions like California and the Great Plains facing severe water scarcity, impacting agriculture and increasing the risk of wildfires.
@@ -242,7 +249,7 @@ Shout-out to Prof. [Qiusheng Wu](https://wetlands.io/) for including cartoee in 
 
 ## 🗺️ Topic: A 3D Digitized Old Map of Balochistan
 
-![d11](/data/d11_retro/d11_retro.JPG)
+[![d11](https://imgur.com/etHqAbQ.jpg)](/data/d11_retro/d11_retro.JPG)
 
 As a retro theme, I choose an old map of Balochistan (Pakistan), from the Imperial Gazetteer of India (1907-1909). Since the map resolution was low, I find it quite difficult to georeference and render it in 3D but still I managed (thanks to John Nelson amazing tutorials on vintage theme maps).
 
@@ -260,7 +267,7 @@ As a retro theme, I choose an old map of Balochistan (Pakistan), from the Imperi
 
 ### 🗺️ Topic: MANAUS City: Where Civilization Meets Wilderness
 
-![d12](/data/d12_south_america/d12_sa.jpg)
+[![d12](https://imgur.com/mGTBqf4.jpg)](/data/d12_south_america/d12_sa.jpg)
 
 A few weeks ago, I saw an aerial image of this place on social media and was instantly in love with the beauty of its landscape. So for today's theme, I chose this place called Manaus, located on the banks of the Negro River in northwestern Brazil.
 
@@ -275,5 +282,27 @@ For preparing this map poster, I used Maxar basemap image for 2021 and edited th
 🎨 Tools used: Google Earth Pro, Adobe Illustrator, and Photoshop
 
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #manaus #brazil #poster
+
+ ---
+
+## 💫 Day 13 of 30-Day Map Challenge: Choropleth
+
+### 🗺️ Topic: Nighttime Light Variation in Palestine in 2023
+
+[![d13](https://imgur.com/W0XgmB8.gif)](/data/d13_choropleth/d13_optimized.gif)
+
+Nighttime light (NTL) data is vital for identifying areas affected by power outages, infrastructure destruction, and population displacement in war conflict situations. I used sequential choropleth colors to visually represent changes in light intensity and highlight active regions. Although I initially aimed to depict the NTL variation in current months, I could only access data up until September (NTL data is not available after September IDK why!). 
+
+Nevertheless, I am sharing all available data, including rasters, individual maps, and original timelapse gifs, in the hope that it contributes to a better understanding of conflict dynamics, aids humanitarian efforts, and informs policy decisions for peace and stability in the region.
+
+🔗 High Resolution Version: [LINK](/data/d13_choropleth/d13_optimized.gif) 
+
+🔗 All Project files: [LINK](/data/d13_choropleth/) 
+
+📍 Data Source: [Nighttime Light](https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG) 
+
+🎨 Tools used: Google Earth Enigne, Geemap, ArcGIS Pro, Adobe Illustrator and Photoshop
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #gaza #palestine #nighttimelight #gis #gischat
 
  ---
