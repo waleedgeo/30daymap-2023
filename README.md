@@ -222,7 +222,7 @@ GAI is an important indicator because it provides a comprehensive visual represe
 
 ### 🗺️ Topic: Drought in North America (2023)
 
-[![d10](https://imgur.com/zQVkL83.gif)](/data/d10_north_america/d10_na_optimized.gif)
+[![d10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHY1N2dyNGdpaTU4anY4aXVxZndmMnMxbzhqZ3NzbTBvNXoxODYzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5xj3vfLBIObRaGB3n/giphy.gif)](/data/d10_north_america/d10_na_optimized.gif)
 
 I have always admired animated maps/gifs for conveying time-series information. So, for the North American theme, I used the North American Drought Monitor (NADM) dataset in Google Earth Engine.
 The animated map shows that in 2023, North America experienced significant drought variations, with regions like California and the Great Plains facing severe water scarcity, impacting agriculture and increasing the risk of wildfires.
@@ -289,7 +289,10 @@ For preparing this map poster, I used Maxar basemap image for 2021 and edited th
 
 ### 🗺️ Topic: Nighttime Light Variation in Palestine in 2023
 
-[![d13](https://imgur.com/W0XgmB8.gif)](/data/d13_choropleth/d13_optimized.gif)
+**Click the GIF to load high resolution version**
+
+[![d13](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWY1a3I2amwwb2xjbnljd2htN2R2Mjh6ZGo3cTJkaHNubnF0aWZzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QeoQlTlce93VpZ1L6L/giphy.gif)](/data/d13_choropleth/d13_optimized.gif)
+
 
 Nighttime light (NTL) data is vital for identifying areas affected by power outages, infrastructure destruction, and population displacement in war conflict situations. I used sequential choropleth colors to visually represent changes in light intensity and highlight active regions. Although I initially aimed to depict the NTL variation in current months, I could only access data up until September (NTL data is not available after September IDK why!). 
 
