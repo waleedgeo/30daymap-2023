@@ -222,7 +222,7 @@ GAI is an important indicator because it provides a comprehensive visual represe
 
 ### 🗺️ Topic: Drought in North America (2023)
 
-[![d10](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHY1N2dyNGdpaTU4anY4aXVxZndmMnMxbzhqZ3NzbTBvNXoxODYzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5xj3vfLBIObRaGB3n/giphy.gif)](/data/d10_north_america/d10_na_optimized.gif)
+[![d10](https://imgur.com/W0XgmB8.gif)](/data/d10_north_america/d10_na_optimized.gif)
 
 I have always admired animated maps/gifs for conveying time-series information. So, for the North American theme, I used the North American Drought Monitor (NADM) dataset in Google Earth Engine.
 The animated map shows that in 2023, North America experienced significant drought variations, with regions like California and the Great Plains facing severe water scarcity, impacting agriculture and increasing the risk of wildfires.
