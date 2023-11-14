@@ -18,6 +18,7 @@
 - [Day 11 Retro: A 3D Digitized Old Map of Balochistan](#-day-11-of-30-day-map-challenge-retro)
 - [Day 12 South America: MANAUS City](#-day-12-of-30-day-map-challenge-south-america)
 - [Day 13 Choropleth: Nighttime Light in Palestine 2023](#-day-13-of-30-day-map-challenge-choropleth)
+- [Day 14 Europe: Population Exposure to Heat Hazard in Europe](#-day-14-of-30-day-map-challenge-europe)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -30,17 +31,16 @@
 
 ✨Please feel free to give suggestions & share!
 
-📍 Data Source: https://data.humdata.org/dataset/global-active-archive-of-large-flood-events-dfo
+📍 Data Source: 
+- [Humdata](https://data.humdata.org/dataset/global-active-archive-of-large-flood-events-dfo)
 
-🔗Download the high-resolution version: [Link](/data/figs/1_points.png)
+🔗Download the high-resolution version: 
+- [Link](/data/figs/1_points.png)
 
-🌐 Interactive Version (ArcGIS web layer): https://www.arcgis.com/home/item.html?id=557e973d9f0f453b89db6a1fd45f3307
-
-🌐Github Page of project: https://github.com/waleedgeo/30daymap-2023
+🌐 Interactive Version (ArcGIS web layer):
+- [LINK](https://www.arcgis.com/home/item.html?id=557e973d9f0f453b89db6a1fd45f3307)
 
 🎨Tools used: ArcGIS Pro and Adobe Illustrator.
-
-👉 Next theme: Lines!
 
 ---
 
@@ -55,16 +55,17 @@
 The map shows the major, moderate, and minor shipping routes globally. I got inspiration from Prof. [Qiusheng Wu](https://www.linkedin.com/in/giswqs/) paper in [JOSS](https://doi.org/10.21105/joss.03414) about the Python package [Leafmap](https://leafmap.org/) for these visualizations.
 While making the map, I got obsessed with these two colors so including both of them here.
 
-📍 Data Source: https://zenodo.org/records/6361813
+📍 Data Source: 
+- [Global Shipping Lanes](https://zenodo.org/records/6361813)
 
-🔗 High resolution map version: [Link-V1 Orange](/data/figs/2_lines_v1.png) - [Link-V2 Blue](/data/figs/2_lines_v2.png)
+🔗 High resolution map version: 
+- [Link-V1 Orange](/data/figs/2_lines_v1.png) 
+- [Link-V2 Blue](/data/figs/2_lines_v2.png)
 
-🔗 Leafmap paper in JOSS: https://doi.org/10.21105/joss.03414
+🔗 Leafmap paper in JOSS:
+- [LINK](https://doi.org/10.21105/joss.03414)
 
 🎨Tools used: ArcGIS Pro and Adobe Illustrator.
-👉 Next theme: Polygons
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #globalshipping #visualization #lines
 
 ---
 
@@ -77,13 +78,13 @@ While making the map, I got obsessed with these two colors so including both of 
 Mapping urbanization patterns always fascinates me. So, for the polygon theme, I used QGIS & #geemap, created a fishnet (~1 Km), and sampled the urban pixels in each zone.
 The map reveals that Lagos city has experienced rapid urbanization, with the urban area growing exponentially over the past few decades, especially after 2000's era. 
 
-🔗 [High Resolution Version](/data/figs/d3_polygons.png)
+🔗 High Resolution Version
+- [LINK](/data/figs/d3_polygons.png)
 
-📍 Data Source: [Tsinghua FROM-GLC Year of Change to Impervious Surface](https://developers.google.com/earth-engine/datasets/catalog/Tsinghua_FROM-GLC_GAIA_v10)
+📍 Data Source: 
+- [Tsinghua FROM-GLC Year of Change to Impervious Surface](https://developers.google.com/earth-engine/datasets/catalog/Tsinghua_FROM-GLC_GAIA_v10)
 
 🎨Tools used: QGIS, Google Earth Engine (Geemap) and Adobe Illustrator.
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #visualization #spatialanalysis #lagos #nigeria #urbanization
 
  ---
 
@@ -99,17 +100,17 @@ It may be the easiest theme of the challenge, but always make sure to avoid such
 
 2) Unwanted colors: not all maps need colors, and sometimes unintentional use of colors can convey the wrong message. For instance, here, sequential choropleth colors are used based on ADM2 property, WHICH DOES NOT MAKE SENSE!
  
-🔗 High Resolution Version: [LINK](https://github.com/waleedgeo/30daymap-2023/blob/main/data/figs/d3_polygons.png)
+🔗 High Resolution Version: 
+- [LINK](https://github.com/waleedgeo/30daymap-2023/blob/main/data/figs/d3_polygons.png)
 
-🔗 All Project files for Day-4: [LINK](/data/d4_badmap/)
+🔗 All Project files for Day-4: 
+- [LINK](/data/d4_badmap/)
 
-Note: for this project, I have uploaded all files (shapefile, QGIS project files etc. You can check the [GitHub repo above](/data/d4_badmap/))
 
-📍 Data Source: Humdata (data also provided on GitHub)
+📍 Data Source: 
+- Humdata
 
 🎨 Tools used: QGIS, Adobe Illustrator and Photoshop
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #30DayMapChallenge #BadMap #China #QGIS #Carto #Cartography #GIS #Geospatial #DataViz
 
  ---
 
@@ -124,17 +125,19 @@ _Click the image to see the timelapse:_
 
 This is by far the most difficult day for me. Being a digital cartographer, I have only thought of making a map with a computer. For this day, I looked into previous year's challenges and loved how they used day-to-day things to create a map. I quickly looked around and saw some shining red beans in my kitchen, and the rest you can see 😂
 
-📽️ Timelapse Video: [LINK](https://www.youtube.com/embed/Ahshgcd9FR8)
+📽️ Timelapse Video: 
+- [LINK](https://www.youtube.com/embed/Ahshgcd9FR8)
 
-✨ Inspiration was taken from: [TWITTER LINK](https://twitter.com/issa_madjid/status/1593319907894099969)
+✨ Inspiration was taken from: 
+- [TWITTER LINK](https://twitter.com/issa_madjid/status/1593319907894099969)
 
-🔗 High-Resolution Version (you probably won't need it, but just in case 😂): [LINK](/data/d5_analogmap/day5_analogmap.JPG)
+🔗 High-Resolution Version (you probably won't need it, but just in case 😂): 
+- [LINK](/data/d5_analogmap/day5_analogmap.JPG)
 
-🔗 All Project files for Day-5:  [LINK](/data/d5_analogmap/)
+🔗 All Project files for Day-5:  
+- [LINK](/data/d5_analogmap/)
 
 🎨 Tools used: Shining Red Beans, Tapioca Pearl (Sabudana), and some glue.
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping
 
 ---
 
@@ -146,13 +149,13 @@ This is by far the most difficult day for me. Being a digital cartographer, I ha
 
 Asia is well known for its river network, which is well-developed in the north, east, and south of the continent. Moreover, some of the world's largest river systems are in Asia, namely the Ganges and Brahmaputra, Yangtze, Yenisei, Lena, Ob, Amur, and Mekong.
 
-🔗 High Resolution Version: [LINK](/data/d6_asia/d6_asia.png)
+🔗 High Resolution Version: 
+- [LINK](/data/d6_asia/d6_asia.png)
 
-📍 Data Source: https://gee-community-catalog.org/projects/grn_wrz/
+📍 Data Source: 
+- [GEE Awsome Community Catalog](https://gee-community-catalog.org/projects/grn_wrz/)
 
 🎨 Tools used: ArcGIS Pro, and Adobe Illustrator
-
-#30DayMapChallenge #DataVisualization #Cartography #Mapping #asia #river #rivernetwork
 
 ---
 
@@ -164,15 +167,16 @@ Asia is well known for its river network, which is well-developed in the north, 
 
 Bright colors on dark canvas always fascinate me. So here's my take on visualizing a road network and a destination route. The map shows my daily travel route from my home in Shum Shui Po, to my campus, Hong Kong Baptist University. The road network in neon blue is shown for just Kowloon, in which the red lines show the route. The road network with the route was prepared using the OSMnx python package and was later edited in Adobe Illustrator.
  
-🔗 High Resolution Version: [LINK](/data/d7_navigation/d7_navigation.png)
+🔗 High Resolution Version: 
+- [LINK](/data/d7_navigation/d7_navigation.png)
 
-🔗 All Project files:  [LINK](/data/d7_navigation/)
+🔗 All Project files:  
+- [LINK](/data/d7_navigation/)
 
-📍 Data Source: OpenStreetMap (OSM) and [OSMnx python package](https://osmnx.readthedocs.io/en/stable/) 
+📍 Data Source: 
+- [OpenStreetMap (OSM) and OSMnx python package](https://osmnx.readthedocs.io/en/stable/) 
 
 🎨 Tools used: OSMnx Python Package, and Adobe Illustrator.
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #navigation #osm #openstreetmap
 
  ---
 
@@ -184,15 +188,16 @@ Bright colors on dark canvas always fascinate me. So here's my take on visualizi
 
 Mount Kilimanjaro, located in Tanzania, is Africa's highest peak, standing tall at 5,895 meters. The reason I chose this place is because of Its unique blend of breathtaking beauty and iconic stature. Special thanks to John Nelson, who provided an amazing tutorial for designing 3D Diorama in ArcGIS Pro.
 
-🔗 High Resolution Version: [LINK](/data/d8_africa/d8_africa.png)
+🔗 High Resolution Version: 
+- [LINK](/data/d8_africa/d8_africa.png)
 
-📍 Data Source: [Copernicus DEM GLO-30](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30)
+📍 Data Source: 
+- [Copernicus DEM GLO-30](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30)
 
 🎨 Tools used: ArcGIS Pro and Adobe Illustrator.
 
-✨ John Nelson's Tutorial on Diorama: [LINK](https://www.youtube.com/watch?v=kVsj6Z7UuLY&t=590s)
-
-#30DayMapChallenge #DataVisualization #Cartography #Mapping #kilimanjaro #diorama #3d #arcgispro
+✨ John Nelson's Tutorial on Diorama: 
+- [LINK](https://www.youtube.com/watch?v=kVsj6Z7UuLY&t=590s)
 
 ---
 
@@ -206,15 +211,16 @@ For today's theme, I created hexagons in ArcGIS Pro (using the Generate Tessella
 
 GAI is an important indicator because it provides a comprehensive visual representation of areas worldwide that experience varying degrees of aridity, helping researchers and policymakers understand and address water scarcity issues. Moreover, the aridity index is a crucial metric for assessing the availability of water resources and predicting potential drought-prone regions, enabling proactive measures for water management and conservation.
 
-🔗 High-Resolution Version: [LINK](/data/d9_hexagons/d9_hexagons.png)
+🔗 High-Resolution Version: 
+- [LINK](/data/d9_hexagons/d9_hexagons.png)
 
-📍 Data Source: [LINK](https://gee-community-catalog.org/projects/ai0/?h=aridit)
+📍 Data Source:
+- [LINK](https://gee-community-catalog.org/projects/ai0/?h=aridit)
 
-🔗 Generate Tessellation tool: [LINK](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/generatetesellation.htm)
+🔗 Generate Tessellation tool: 
+- [LINK](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/generatetesellation.htm)
 
 🎨 Tools used: Google Earth Engine, QGIS, and Adobe Illustrator.
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #hexagon #aridity #globalaridityindex #drought
 
 ---
 
@@ -233,17 +239,19 @@ For designing the animated map, I first assessed the NADM dataset from Awesome G
 
 Shout-out to Prof. [Qiusheng Wu](https://wetlands.io/) for including cartoee in geemap, and [Samapriya Roy, Ph.D.](https://www.linkedin.com/in/samapriya) for maintaining the Awesome GEE Community Catalog!
 
-🔗 High Resolution Version: [LINK](/data/d10_north_america/d10_na.gif)
+🔗 High Resolution Version: 
+- [LINK](/data/d10_north_america/d10_na.gif)
 
-📍 Data Source: [LINK](https://gee-community-catalog.org/projects/nadm/?h=drought)
+📍 Data Source: 
+- [LINK](https://gee-community-catalog.org/projects/nadm/?h=drought)
 
-🔗 Geemap (Cartoee): [LINK](https://geemap.org/cartoee/)
+🔗 Geemap (Cartoee): 
+- [LINK](https://geemap.org/cartoee/)
 
-🔗 Awsome GEE Community Catalog: [LINK](https://gee-community-catalog.org/)
+🔗 Awsome GEE Community Catalog: 
+- [LINK](https://gee-community-catalog.org/)
 
 🎨 Tools used: Google Earth Engine, Geemap, cartoee, cartopy, python, Adobe Illustrator and Photoshop
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #GoogleEarthEngine, #Geemap, #cartoee, #cartopy
 
  ---
 
@@ -255,13 +263,13 @@ Shout-out to Prof. [Qiusheng Wu](https://wetlands.io/) for including cartoee in 
 
 As a retro theme, I choose an old map of Balochistan (Pakistan), from the Imperial Gazetteer of India (1907-1909). Since the map resolution was low, I find it quite difficult to georeference and render it in 3D but still I managed (thanks to John Nelson amazing tutorials on vintage theme maps).
 
-🔗 High Resolution Version: [LINK](/data/d11_retro/d11_retro.JPG)
+🔗 High Resolution Version: 
+- [LINK](/data/d11_retro/d11_retro.JPG)
 
-📍 Data Source: [LINK](https://en.m.wikipedia.org/wiki/File:Map_of_Baluchistan_from_The_Imperial_Gazetteer_of_India_%281907-1909%29.jpg)
+📍 Data Source:
+- [LINK](https://en.m.wikipedia.org/wiki/File:Map_of_Baluchistan_from_The_Imperial_Gazetteer_of_India_%281907-1909%29.jpg)
 
 🎨 Tools used: ArcGIS Pro, and Adobe Illustrator.
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #balochistan #gis
 
 ---
 
@@ -275,15 +283,16 @@ A few weeks ago, I saw an aerial image of this place on social media and was ins
 
 For preparing this map poster, I used Maxar basemap image for 2021 and edited them directly in Adobe Photoshop and then Illustrator. I intended to print this as a wall poster and therefore processed all data in 8K resolution, which resulted in around 200 MB of image size.  Here, I am sharing the compressed version (~7 MB, and 300dpi). So, if you need that very high resolution, request it on GitHub, and I will happily provide it.
 
-🔗 High-Resolution Version: [LINK](/data/d12_south_america/d12_sa.jpg)
+🔗 High-Resolution Version: 
+- [LINK](/data/d12_south_america/d12_sa.jpg)
 
-🔗 Google Maps Location: [LINK](https://www.google.com/maps/place/Manaus,+State+of+Amazonas,+Brazil/@-3.044662,-59.9671039,12z/data=!3m1!4b1!4m6!3m5!1s0x926c1bc8b37647b7:0x2b485c9ff765a9cc!8m2!3d-3.1190275!4d-60.0217314!16zL20vMDJia2sz?entry=ttu)
+🔗 Google Maps Location: 
+- [LINK](https://www.google.com/maps/place/Manaus,+State+of+Amazonas,+Brazil/@-3.044662,-59.9671039,12z/data=!3m1!4b1!4m6!3m5!1s0x926c1bc8b37647b7:0x2b485c9ff765a9cc!8m2!3d-3.1190275!4d-60.0217314!16zL20vMDJia2sz?entry=ttu)
 
-📍 Data Source: Maxar Basemap for 2021
+📍 Data Source: 
+- Maxar Basemap for 2021
 
 🎨 Tools used: Google Earth Pro, Adobe Illustrator, and Photoshop
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #manaus #brazil #poster
 
  ---
 
@@ -300,20 +309,23 @@ Nighttime light (NTL) data is vital for identifying areas affected by power outa
 
 Nevertheless, I am sharing all available data, including rasters, individual maps, and original timelapse gifs, in the hope that it contributes to a better understanding of conflict dynamics, aids humanitarian efforts, and informs policy decisions for peace and stability in the region.
 
-🔗 High Resolution Version: [LINK](/data/d13_choropleth/d13_optimized.gif) 
+🔗 High Resolution Version: 
+- [LINK](/data/d13_choropleth/d13_optimized.gif) 
 
-🔗 All Project files: [LINK](/data/d13_choropleth/) 
+🔗 All Project files: 
+- [LINK](/data/d13_choropleth/) 
 
-📍 Data Source: [Nighttime Light](https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG) 
+📍 Data Source: 
+- [Nighttime Light](https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG) 
 
 🎨 Tools used: Google Earth Enigne, Geemap, ArcGIS Pro, Adobe Illustrator and Photoshop
-
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #gaza #palestine #nighttimelight #gis #gischat
 
  ---
 ## 💫 Day 14 of 30-Day Map Challenge: Europe
 
 ### 🗺️ Topic: Population Exposure to Heat Hazard in Europe
+
+**Click the GIF to load high resolution version**
 
 [![d14](https://imgur.com/aC4waPM.gif)](/data/d14_europe/d14_optimized.gif)
 
@@ -336,6 +348,11 @@ For analysis, I used Global Extreme Heat Hazard (5 year interval) layer provided
 
 🎨 Tools used: Geemap, ArcGIS Pro, Adobe Illustrator and Photoshop
 
-#30DayMapChallenge #DataVisualization #Cartography #Mapping #geemap #worldpop #exposureanalyis #heatstress #gis #gischat #europe
 
 ---
+
+
+---
+Tags:
+
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization
