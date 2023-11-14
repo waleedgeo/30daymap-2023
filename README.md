@@ -311,3 +311,31 @@ Nevertheless, I am sharing all available data, including rasters, individual map
  #30DayMapChallenge #DataVisualization #Cartography #Mapping #gaza #palestine #nighttimelight #gis #gischat
 
  ---
+## 💫 Day 14 of 30-Day Map Challenge: Europe
+
+### 🗺️ Topic: Population Exposure to Heat Hazard in Europe
+
+[![d14](https://imgur.com/aC4waPM.gif)](/data/d14_europe/d14_optimized.gif)
+
+Heat stress has become a significant global concern, impacting populations worldwide. In this analysis, I focused on Europe, examining the population exposed to heat stress at the ADM 0 level. While Europe may experience lower levels of heat stress compared to other regions, there are still populations within European states facing high levels of heat stress, as depicted in the bivariate population exposure map.
+
+For analysis, I used Global Extreme Heat Hazard (5 year interval) layer provided by World Bank, and Total Population data provided by Worldpop. For analysis, I used geemap for zonal statistics, ArcGIS Pro for maps, Illustrator for editing and Photoshop for final gif. All the individual maps and materials are available below.
+
+🔗 High Resolution Version:
+- [High Resolution Gift: ](/data/d14_europe/d14_optimized.gif)
+- [High Resolution Population Map: ](/data/d14_europe/Pop.png)
+- [High Resolution Heat Hazard Map: ](/data/d14_europe/Heat.png)
+- [High Resolution Exposure Map: ](/data/d14_europe/bivariate.png)
+
+🔗 All Project files:
+- [LINK](/data/d14_europe/)
+
+📍 Data Source: 
+- [Heat Hazard Layer: ](https://gee-community-catalog.org/projects/heat-hazard/)
+- [Worldpop:](https://developers.google.com/earth-engine/datasets/catalog/WorldPop_GP_100m_pop)
+
+🎨 Tools used: Geemap, ArcGIS Pro, Adobe Illustrator and Photoshop
+
+#30DayMapChallenge #DataVisualization #Cartography #Mapping #geemap #worldpop #exposureanalyis #heatstress #gis #gischat #europe
+
+---
