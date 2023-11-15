@@ -1,9 +1,15 @@
 **Note:** 
 - _Click on each map, to see its high resolution version!_
 - _All project files are available in the [data folder](/data/)._
-- More data will be added as the challenge progresses.
+- More data will be added after the end of this challenge.
+- In case you use my map or find it insightful, please share your thoughts with me, as I would love to hear your feedback.
+- For queries contact me at: 
+    - [My Email](mailto:waleedgeo@outlook.com)
+    - [LinkedIn](https://www.linkedin.com/in/waleedgeo)
+- [Check the license of my maps here](#license-1)
 
-## Table of Content:
+
+## Table of Contents:
 
 - [Day 1 Points: Global Flood Affected People](#-day-1-of-30-day-map-challenge-points)
 - [Day 2 Lines: Global Shipping Routes](#-day-2-of-30-day-map-challenge-lines)
@@ -19,6 +25,7 @@
 - [Day 12 South America: MANAUS City](#-day-12-of-30-day-map-challenge-south-america)
 - [Day 13 Choropleth: Nighttime Light in Palestine 2023](#-day-13-of-30-day-map-challenge-choropleth)
 - [Day 14 Europe: Population Exposure to Heat Hazard in Europe](#-day-14-of-30-day-map-challenge-europe)
+- [Day 15 OpenStreetMap: Lahore Road Network](#-day-15-of-30-day-map-challenge-openstreetmap)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -320,7 +327,6 @@ Nevertheless, I am sharing all available data, including rasters, individual map
 
 🎨 Tools used: Google Earth Enigne, Geemap, ArcGIS Pro, Adobe Illustrator and Photoshop
 
- ---
 ## 💫 Day 14 of 30-Day Map Challenge: Europe
 
 ### 🗺️ Topic: Population Exposure to Heat Hazard in Europe
@@ -348,11 +354,39 @@ For analysis, I used Global Extreme Heat Hazard (5 year interval) layer provided
 
 🎨 Tools used: Geemap, ArcGIS Pro, Adobe Illustrator and Photoshop
 
+## 💫 Day 15 of 30-Day Map Challenge: OpenStreetMap 
+
+### 🗺️ Topic: Lahore Road Network
+
+[![d15](https://imgur.com/waQHLiq.png)](/data/d15_openstreetmap/d15_openstreetmap.png)
+
+Am I the only one obsessed with neon color road networks on dark backgrounds 😂? I have been waiting for this day since the start of this challenge as I wanted to create this masterpiece map showing the dense road network in Lahore city. I am also planning to prepare this kind of map after the 30DayMapChallenge, so feel free to suggest some beautiful cities with prominent road networks.
+
+For preparing the map, I used the OSMnx python package, QGIS, and Adobe Illustrator. 
+
+🔗 High-Resolution Version:
+- [LINK](/data/d15_openstreetmap/d15_openstreetmap.png)
+
+
+📍 Data Source: [OSMnx](https://osmnx.readthedocs.io)
+
+🎨 Tools used: OSMnx, QGIS, and Adobe IllustratorPhotoshop
+
+
+
+## License
+
+All maps are licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
+
+- [See License details here if you want to copy,or use my maps.](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+- In case you use my map or find it insightful, please share the details with me, as I would love to hear your feedback.
+- For queries contact me at: 
+    - [My Email](mailto:waleedgeo@outlook.com)
+    - [LinkedIn](https://www.linkedin.com/in/waleedgeo)
 
 ---
 
-
----
 Tags:
 
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx
