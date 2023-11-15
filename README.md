@@ -358,7 +358,7 @@ For analysis, I used Global Extreme Heat Hazard (5 year interval) layer provided
 
 ### 🗺️ Topic: Lahore Road Network
 
-[![d15](https://imgur.com/waQHLiq.png)](/data/d15_openstreetmap/d15_openstreetmap.png)
+[![d15](https://imgur.com/ummOlOa.png)](/data/d15_openstreetmap/d15_openstreetmap.png)
 
 Am I the only one obsessed with neon color road networks on dark backgrounds 😂? I have been waiting for this day since the start of this challenge as I wanted to create this masterpiece map showing the dense road network in Lahore city. I am also planning to prepare this kind of map after the 30DayMapChallenge, so feel free to suggest some beautiful cities with prominent road networks.
 
