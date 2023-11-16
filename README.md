@@ -26,6 +26,7 @@
 - [Day 13 Choropleth: Nighttime Light in Palestine 2023](#-day-13-of-30-day-map-challenge-choropleth)
 - [Day 14 Europe: Population Exposure to Heat Hazard in Europe](#-day-14-of-30-day-map-challenge-europe)
 - [Day 15 OpenStreetMap: Lahore Road Network](#-day-15-of-30-day-map-challenge-openstreetmap)
+- [Day 16 Oceania: Frequency of Forest Fires in Australia](#-day-16-of-30-day-map-challenge-oceania)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
