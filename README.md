@@ -372,6 +372,23 @@ For preparing the map, I used the OSMnx python package, QGIS, and Adobe Illustra
 
 🎨 Tools used: OSMnx, QGIS, and Adobe IllustratorPhotoshop
 
+## 💫 Day 16 of 30-Day Map Challenge: Oceania
+
+### 🗺️ Topic: Frequency of Forest Fires in Australia (2001-2023)
+
+[![d16](https://imgur.com/V1vAYSJ.png)](/data/d16_oceania/d16_oceania.png)
+
+So, for day 16 theme, I choose Australia, as the country has experienced devastating forest fires that have significantly impacted its ecosystems and communities. Various factors, including extreme heat, prolonged droughts, and strong winds, have fueled these fires. The frequency and intensity of the fires have increased, resulting in widespread destruction of forests, biodiversity loss, and wildlife displacement. From the map, it can be seen that between 2001 and 2023, 3882 forest fires have been recorded.
+
+For analysis, I used Google Earth Engine in Geemap, and exported results in ArcGIS Pro, where I designed the map. Later on, I finalized the map in Adobe Illustrator.
+
+🔗 High Resolution Version:
+- [LINK](/data/d16_oceania/d16_oceania.png)
+
+📍 Data Source:
+- [FIRMS: Fire Information for Resource Management System](https://developers.google.com/earth-engine/datasets/catalog/FIRMS)
+
+🎨 Tools used: Google Earth Engine, Geemap, ArcGIS Pro, and Adobe Illustrator.
 
 
 ## License
