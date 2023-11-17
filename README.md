@@ -27,6 +27,7 @@
 - [Day 14 Europe: Population Exposure to Heat Hazard in Europe](#-day-14-of-30-day-map-challenge-europe)
 - [Day 15 OpenStreetMap: Lahore Road Network](#-day-15-of-30-day-map-challenge-openstreetmap)
 - [Day 16 Oceania: Frequency of Forest Fires in Australia](#-day-16-of-30-day-map-challenge-oceania)
+- [Day 17 Flow: Pakistan Migration Flow](#-day-17-of-30-day-map-challenge-flow)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -390,6 +391,31 @@ For analysis, I used Google Earth Engine in Geemap, and exported results in ArcG
 - [FIRMS: Fire Information for Resource Management System](https://developers.google.com/earth-engine/datasets/catalog/FIRMS)
 
 🎨 Tools used: Google Earth Engine, Geemap, ArcGIS Pro, and Adobe Illustrator.
+
+## 💫 Day 17 of 30-Day Map Challenge: Flow
+
+### 🗺️ Topic: Pakistan Migration Flow (1990-2015)
+
+[![d17](https://imgur.com/J9At5LK.png)](/data/d17_flow/d17_flow.png)
+
+Last year, I was awarded a PhD fellowship at HKBU and had to leave Pakistan. Interestingly, during the same year, Pakistan witnessed the highest recorded number of people (280,000 individuals) leaving the country, resulting in the highest migration rate ever documented in its history. Today, I wanted to explore the theme of migration and depict the flow of people in and out of the country.
+
+Although I couldn't find the most up-to-date comprehensive databases, I came across some valuable resources in nature papers, which I decided to utilize for my work. The map presented here illustrates the migration rates with Pakistan as the origin country and various other nations as destinations. Additionally, the barplot highlights the top 10 countries with the highest percentage of migration flow, with Saudi Arabia and the United Arab Emirates leading the list.
+
+To create these visualizations, I utilized open-source datasets from Nature papers (figshare), cleaned the data using Python's pandas library, and geolocated the information using ArcGIS Pro.
+
+🔗 High Resolution Version:
+- [LINK](/data/d17_flow/d17_flow.png)
+
+🔗 All Project files:
+- [LINK](/data/d17_flow/)
+
+📍 Data Source:
+- [Bilateral international migration flow estimates for 200 countries](https://www.nature.com/articles/s41597-019-0089-3)
+- [Bilateral international migration flow estimates updated and refined by sex](https://www.nature.com/articles/s41597-022-01271-z#Sec4)
+- [Countries Codes and Lat Long](https://gist.github.com/cpl/3dc2d19137588d9ae202d67233715478)
+
+🎨 Tools used: Python (Pandas), ArcGIS Pro, and Adobe Illustrator
 
 
 ## License
