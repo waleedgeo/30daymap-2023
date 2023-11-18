@@ -418,7 +418,7 @@ To create these visualizations, I utilized open-source datasets from Nature pape
 
 🎨 Tools used: Python (Pandas), ArcGIS Pro, and Adobe Illustrator
 
-## 💫 Day 18 of 30-Day Map Challenge:  Atmosphere
+## 💫 Day 18 of 30-Day Map Challenge: Atmosphere
 
 ### 🗺️ Topic: Nitrogen Dioxide Concentration variation in COVID (2019 & 2020)
 
