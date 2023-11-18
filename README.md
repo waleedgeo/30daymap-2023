@@ -28,6 +28,7 @@
 - [Day 15 OpenStreetMap: Lahore Road Network](#-day-15-of-30-day-map-challenge-openstreetmap)
 - [Day 16 Oceania: Frequency of Forest Fires in Australia](#-day-16-of-30-day-map-challenge-oceania)
 - [Day 17 Flow: Pakistan Migration Flow](#-day-17-of-30-day-map-challenge-flow)
+- [Day 18 Atmosphere: Nitrogen Dioxide Concentration](#-day-18-of-30-day-map-challenge-atmosphere)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -416,6 +417,23 @@ To create these visualizations, I utilized open-source datasets from Nature pape
 - [Countries Codes and Lat Long](https://gist.github.com/cpl/3dc2d19137588d9ae202d67233715478)
 
 🎨 Tools used: Python (Pandas), ArcGIS Pro, and Adobe Illustrator
+
+## 💫 Day 18 of 30-Day Map Challenge:  Atmosphere
+
+### 🗺️ Topic: Nitrogen Dioxide Concentration variation in COVID (2019 & 2020)
+
+[![d18](https://imgur.com/0fkDFGr.png)](/data/d18_atmosphere/d18_atmosphere.gif)
+
+During the COVID-19 pandemic, significant changes in nitrogen dioxide (NO2) concentrations were observed globally. With lockdowns and travel restrictions, reduced industrial and transportation activities led to a noticeable decline in NO2 levels. So, for today's theme, I used Sentinel-5P NO2 data to visualize the trends in NO2 for the pre covid (2019) and during covid (2020) period. Overall, a decreasing trend is prominent from the visualization. This unprecedented reduction in NO2 levels provides a glimpse of the environmental impact of reduced human activity during the pandemic.
+
+🔗 High Resolution Version: 
+- [LINK](/data/d18_atmosphere/d18_atmosphere.gif)
+
+
+📍 Data Source:
+- [Sentinel-5P NRTI NO2: Near Real-Time Nitrogen Dioxide](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2)
+
+🎨 Tools used: Google Earth Engine, Geemap, cartopy (cartoee), Adobe Illustrator and Photoshop
 
 
 ## License
