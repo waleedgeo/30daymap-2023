@@ -435,6 +435,22 @@ During the COVID-19 pandemic, significant changes in nitrogen dioxide (NO2) conc
 
 🎨 Tools used: Google Earth Engine, Geemap, cartopy (cartoee), Adobe Illustrator and Photoshop
 
+## 💫 Day 19 of 30-Day Map Challenge: 5 minute map 
+### 🗺️ Topic: Karachi's Road Network
+
+[![d19](https://imgur.com/8Y63Jlm.png)](/data/d19_5minutemap/d19_5minutemap.png)
+
+Python OSMnx python package is a great tool to make quick OSM visualizations. So for today's 5 minute map theme, I used the OSMnx package to visualize Karachi's road network.
+
+🔗 High Resolution Version:
+- [LINK](/data/d19_5minutemap/d19_5minutemap.png)
+
+📍 Data Source:
+- [OSMnx](https://osmnx.readthedocs.io)
+
+🎨 Tools used: OSMnx, ArcGIS Pro and Adobe Illustrator
+
+
 
 ## License
 
