@@ -6,7 +6,7 @@
 - For queries contact me at: 
     - [My Email](mailto:waleedgeo@outlook.com)
     - [LinkedIn](https://www.linkedin.com/in/waleedgeo)
-- [Check the license of my maps here](#license-1)
+- [Check the license of my maps here](#license)
 
 
 ## Table of Contents:
