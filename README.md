@@ -30,6 +30,7 @@
 - [Day 17 Flow: Pakistan Migration Flow](#-day-17-of-30-day-map-challenge-flow)
 - [Day 18 Atmosphere: Nitrogen Dioxide Concentration](#-day-18-of-30-day-map-challenge-atmosphere)
 - [Day 19 5 minute map: Karachi's Road Network](#-day-19-of-30-day-map-challenge-5-minute-map)
+- [Day 20 Outdoors: Animation of Tai Mo Shan Hike](#-day-20-of-30-day-map-challenge-outdoors)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -61,10 +62,11 @@
 
 [![d2](https://imgur.com/EmVH2hi.png)](/data/figs/2_lines_v2.png)
 
-[![d2](https://imgur.com/KKszEqG.png)](/data/figs/2_lines_v1.png)
-
 The map shows the major, moderate, and minor shipping routes globally. I got inspiration from Prof. [Qiusheng Wu](https://www.linkedin.com/in/giswqs/) paper in [JOSS](https://doi.org/10.21105/joss.03414) about the Python package [Leafmap](https://leafmap.org/) for these visualizations.
 While making the map, I got obsessed with these two colors so including both of them here.
+
+NOTE:
+- There is another version of this map with orange lines, which I am sharing as well. Click here to see the orange version: [LINK](/data/figs/2_lines_v1.png)
 
 📍 Data Source: 
 - [Global Shipping Lanes](https://zenodo.org/records/6361813)
@@ -453,6 +455,28 @@ Python OSMnx python package is a great tool to make quick OSM visualizations. So
 🎨 Tools used: OSMnx, ArcGIS Pro and Adobe Illustrator
 
 
+## 💫 Day 20 of 30-Day Map Challenge: Outdoors 
+
+### 🗺️ Topic: Animation of Tai Mo Shan Hike
+
+[![d20](https://imgur.com/Ow04wZR.gif)](https://youtu.be/DdjjHKh6qfs)
+
+A few months ago, I did my first hike in Hong Kong at Tai Mo Shan, the highest peak in the region. This special adventure covered a distance of approximately 10 km and took me around 5 hours to complete.
+
+To celebrate my love for the outdoors, I decided to create a simple animation showcasing the hiking trail of Tai Mo Shan. Using data collected from Google Earth Studio and Google Earth Pro, I edited the footage in Adobe Premiere Pro to bring the trail to life.
+
+For those who are interested in experiencing the hike themselves, I have included the gpx file for the entire route in the [data folder](/data/d20_outdoors/).
+
+🔗 High Resolution Version:
+- [YouTube Full Animated Video](https://youtu.be/DdjjHKh6qfs)
+
+
+📍 Data Source:
+- [Google Earth Studio](https://www.google.com/earth/studio/)
+- [Google Earth Pro](https://www.google.com/earth/versions/#earth-pro)
+- [Journey Era](https://www.journeyera.com/tai-mo-shan-hike-hong-kong/)
+
+🎨 Tools used: Google Earth Studio, Google Earth Pro, and Adobe Premiere Pro
 
 ## License
 
