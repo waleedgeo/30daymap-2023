@@ -1,8 +1,10 @@
 **Note:** 
-- _Click on each map, to see its high resolution version!_
-- _All project files are available in the [data folder](/data/)._
+
+- This repository contains my maps for the 30-Day Map Challenge 2021.
+- Click on each map, to see its high resolution version!
+- All project files are available in the [data folder](/data/).
 - More data will be added after the end of this challenge.
-- In case you use my map or find it insightful, please share your thoughts with me, as I would love to hear your feedback.
+- In case you use my map or find it insightful, please give a star to this repository, and share your thoughts with me, as I would love to hear your feedback.
 - For queries contact me at: 
     - [My Email](mailto:waleedgeo@outlook.com)
     - [LinkedIn](https://www.linkedin.com/in/waleedgeo)
@@ -31,6 +33,7 @@
 - [Day 18 Atmosphere: Nitrogen Dioxide Concentration](#-day-18-of-30-day-map-challenge-atmosphere)
 - [Day 19 5 minute map: Karachi's Road Network](#-day-19-of-30-day-map-challenge-5-minute-map)
 - [Day 20 Outdoors: Animation of Tai Mo Shan Hike](#-day-20-of-30-day-map-challenge-outdoors)
+- [Day 21 Raster: River Taz River (Russia) Relative Elevation Model](#-day-21-of-30-day-map-challenge-raster)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -478,6 +481,24 @@ For those who are interested in experiencing the hike themselves, I have include
 
 🎨 Tools used: Google Earth Studio, Google Earth Pro, and Adobe Premiere Pro
 
+## 💫 Day 21 of 30-Day Map Challenge: Raster
+
+### 🗺️ Topic: River Taz River (Russia) Relative Elevation Model
+
+[![d21](https://imgur.com/g1aLzFC.png)](/data/d21_raster/d21_raster.png)
+
+Recently, I saw a stunning map poster featuring the Taz River, and I was truly captivated by the breathtaking beauty of this landscape. To align with today's raster theme, I utilized a River Relative Elevation Model (REM) derived from the GLC-30 Digital Elevation Model (DEM) dataset. To evaluate the REM, I employed the RiverREM Python package and ultimately brought the poster to life using Illustrator. It was an incredible experience to combine data analysis and artistic design to showcase the magnificence of the Taz River.
+
+🔗 High Resolution Version: 
+- [LINK](/data/d21_raster/d21_raster.png)
+
+📍 Data Source: 
+- [Copernicus DEM GLO-30: Global 30m Digital Elevation Model](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30)
+- [RiverREM Python](https://github.com/OpenTopography/RiverREM)
+- [Greg Fiske - Reference Concept](https://www.instagram.com/p/CywR0zpPIPl/)
+
+🎨 Tools used: Python, RiverREM package, and Adobe Illustrator.
+
 ## License
 
 All maps are licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
@@ -493,4 +514,4 @@ All maps are licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/b
 
 Tags:
 
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx #taz #tazriver #riverrem #relativeelevationmodel #elevation
