@@ -503,7 +503,7 @@ Recently, I saw a stunning map poster featuring the Taz River, and I was truly c
 ## 💫 Day 22 of 30-Day Map Challenge: North is not always up!
 ### 🗺️ Topic: A 3D bathymetric diorama of Tonga trench
 
-[![d22](https://imgur.com/xAEOePF.png)](/data/d22_north/d22_north.png)
+[![d22](https://imgur.com/EHaQy9f.png)](/data/d22_north/d22_north.png)
 
 When considering the theme for this project, the idea of exploring the north direction in 3D maps immediately came to mind. I've been intrigued by John Nelson's bathymetric diorama for some time now, and today I finally decided to give it a try. This visualization aims to showcase that in 3D maps, the north direction is not always at the top.
 For this particular visualization, I selected the Tonga Trench, located in the southwestern Pacific Ocean. It holds the distinction of being the deepest trench in the Southern hemisphere and the second deepest on Earth, surpassed only by the Mariana Trench. To create this map, I utilized ArcGIS Pro and Adobe Illustrator, following an incredible tutorial by John Nelson.
