@@ -34,6 +34,7 @@
 - [Day 19 5 minute map: Karachi's Road Network](#-day-19-of-30-day-map-challenge-5-minute-map)
 - [Day 20 Outdoors: Animation of Tai Mo Shan Hike](#-day-20-of-30-day-map-challenge-outdoors)
 - [Day 21 Raster: River Taz River (Russia) Relative Elevation Model](#-day-21-of-30-day-map-challenge-raster)
+- [Day 22 North is not always up!: A 3D bathymetric diorama of Tonga trench](#-day-22-of-30-day-map-challenge-north-is-not-always-up)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -498,6 +499,24 @@ Recently, I saw a stunning map poster featuring the Taz River, and I was truly c
 - [Greg Fiske - Reference Concept](https://www.instagram.com/p/CywR0zpPIPl/)
 
 🎨 Tools used: Python, RiverREM package, and Adobe Illustrator.
+
+## 💫 Day 22 of 30-Day Map Challenge: North is not always up!
+### 🗺️ Topic: A 3D bathymetric diorama of Tonga trench
+
+[![d22](https://imgur.com/xAEOePF.png)](/data/d22_north/d22_north.png)
+
+When considering the theme for this project, the idea of exploring the north direction in 3D maps immediately came to mind. I've been intrigued by John Nelson's bathymetric diorama for some time now, and today I finally decided to give it a try. This visualization aims to showcase that in 3D maps, the north direction is not always at the top.
+For this particular visualization, I selected the Tonga Trench, located in the southwestern Pacific Ocean. It holds the distinction of being the deepest trench in the Southern hemisphere and the second deepest on Earth, surpassed only by the Mariana Trench. To create this map, I utilized ArcGIS Pro and Adobe Illustrator, following an incredible tutorial by John Nelson.
+
+🔗 High Resolution Version:
+- [LINK](/data/d22_north/d22_north.png)
+
+
+📍 Data and Tutorial:
+- [Global ocean & land terrain models](https://www.gebco.net/data_and_products/gridded_bathymetry_data/)
+- [Challenger Deep as a Micro World](https://www.youtube.com/watch?v=ehJhR3lgjNw&t=13s)
+
+🎨 Tools used: ArcGIS Pro, and Adobe Illustrator
 
 ## License
 
