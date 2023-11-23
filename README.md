@@ -35,6 +35,7 @@
 - [Day 20 Outdoors: Animation of Tai Mo Shan Hike](#-day-20-of-30-day-map-challenge-outdoors)
 - [Day 21 Raster: River Taz River (Russia) Relative Elevation Model](#-day-21-of-30-day-map-challenge-raster)
 - [Day 22 North is not always up!: A 3D bathymetric diorama of Tonga trench](#-day-22-of-30-day-map-challenge-north-is-not-always-up)
+- [Day 23 3D: 3D Elevation Map of Ngari Prefecture, China](#-day-23-of-30-day-map-challenge-3d)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -518,6 +519,25 @@ For this particular visualization, I selected the Tonga Trench, located in the s
 
 🎨 Tools used: ArcGIS Pro, and Adobe Illustrator
 
+## 💫 Day 23 of 30-Day Map Challenge: 3D
+
+### 🗺️ Topic: 3D Elevation Map of Ngari Prefecture, China
+
+[![d23](https://imgur.com/ZZWA6Ae.png)](/data/d23_3d/d23_3d.png)
+
+Excited to share my first-ever 3D elevation map created using Rayshader R package! Working with R and Rayshader was a challenging yet rewarding experience. Thanks to the comprehensive documentation and numerous tutorials available, I was able to navigate through the process smoothly.
+
+The map showcases the Ngari Prefecture, also known as Ali Prefecture, located in China's Tibet Autonomous Region. Nestled in Western Tibet, Ngari Khorsum, as it is traditionally called, boasts breathtaking landscapes and is home to the tranquil town of Shiquanhe. With its sparse population of only 0.3 people per kilometer, it stands as one of the least densely populated areas in the world.
+
+🔗 High Resolution Version:
+- [LINK](/data/d23_3d/d23_3d.png)
+
+📍 Data Source:
+- [Copernicus DEM GLO-30](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30#description)
+- [Rayshader](https://www.rayshader.com/)
+
+🎨 Tools used: R language, R Studio, Rayshader, and Adobe Illustrator
+
 ## License
 
 All maps are licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
@@ -533,4 +553,4 @@ All maps are licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/b
 
 Tags:
 
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx #taz #tazriver #riverrem #relativeelevationmodel #elevation
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx #taz #tazriver #riverrem #relativeelevationmodel #elevation #elevationvisualization #rayshader #r #3d
