@@ -36,6 +36,7 @@
 - [Day 21 Raster: River Taz River (Russia) Relative Elevation Model](#-day-21-of-30-day-map-challenge-raster)
 - [Day 22 North is not always up!: A 3D bathymetric diorama of Tonga trench](#-day-22-of-30-day-map-challenge-north-is-not-always-up)
 - [Day 23 3D: 3D Elevation Map of Ngari Prefecture, China](#-day-23-of-30-day-map-challenge-3d)
+- [Day 24 Black and White: Contour Map of Yosemite Wilderness, US](#-day-24-of-30-day-map-challenge-black-and-white)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -537,6 +538,22 @@ The map showcases the Ngari Prefecture, also known as Ali Prefecture, located in
 - [Rayshader](https://www.rayshader.com/)
 
 🎨 Tools used: R language, R Studio, Rayshader, and Adobe Illustrator
+
+## 💫 Day 24 of 30-Day Map Challenge: Black and White 
+
+### 🗺️ Topic: Contour Map of Yosemite Wilderness, US
+
+[![d24](https://imgur.com/kmlfj9W.png)](/data/d24_bw/d24_bw.png)
+
+For today's theme, I have created a contour map to showcase the changes in elevation within the Yosemite Wilderness, US. Contours provide a swift and informative way to visualize the varying terrain, as their spacing and pattern unveil the landscape's characteristics. For this particular project, I opted for the black and white theme, by using light shades for the contour lines against a darker background. For creating this map, I downloaded the high resolution LIDAR based elevation data from OpenTopography, and processed it in ArcGIS Pro. Later on, I finalized the map in Adobe Illustrator.
+
+🔗 High Resolution Version:
+- [LINK](/data/d24_bw/d24_bw.png)
+
+📍 Data Source:
+- [OpenTopography](https://opentopography.org/)
+
+🎨 Tools used: ArcGIS Pro, and Adobe Illustrator
 
 ## License
 
