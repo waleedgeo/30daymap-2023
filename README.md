@@ -37,6 +37,7 @@
 - [Day 22 North is not always up!: A 3D bathymetric diorama of Tonga trench](#-day-22-of-30-day-map-challenge-north-is-not-always-up)
 - [Day 23 3D: 3D Elevation Map of Ngari Prefecture, China](#-day-23-of-30-day-map-challenge-3d)
 - [Day 24 Black and White: Contour Map of Yosemite Wilderness, US](#-day-24-of-30-day-map-challenge-black-and-white)
+- [Day 25 Antarctica: Elevation of Antarctica](#-day-25-of-30-day-map-challenge-antarctica)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -552,6 +553,22 @@ For today's theme, I have created a contour map to showcase the changes in eleva
 
 📍 Data Source:
 - [OpenTopography](https://opentopography.org/)
+
+🎨 Tools used: ArcGIS Pro, and Adobe Illustrator
+
+## 💫 Day 25 of 30-Day Map Challenge: Antarctica
+
+### 🗺️ Topic: Elevation of Antarctica
+
+[![d25](https://imgur.com/7SrA452.png)](/data/d25_a/d25_a.png)
+
+In general, elevation plays a vital role in understanding Antarctica's unique and fragile environment. It provides crucial insights into the distribution of ice, glaciers, and landforms, enabling scientists to study the effects of climate change and monitor the stability of ice sheets. This map highlights the significance of elevation data in comprehending and conserving Antarctica's delicate ecosystem.
+
+🔗 High Resolution Version:
+- [LINK](data/d25_a/d25_a.png)
+
+📍 Data Source:
+- [CryoSat-2 Antarctica 1km DEM](https://developers.google.com/earth-engine/datasets/catalog/CPOM_CryoSat2_ANTARCTICA_DEM#description)
 
 🎨 Tools used: ArcGIS Pro, and Adobe Illustrator
 
