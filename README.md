@@ -562,7 +562,7 @@ For today's theme, I have created a contour map to showcase the changes in eleva
 
 [![d25](https://imgur.com/7SrA452.png)](/data/d25_a/d25_a.png)
 
-In general, elevation plays a vital role in understanding Antarctica's unique and fragile environment. It provides crucial insights into the distribution of ice, glaciers, and landforms, enabling scientists to study the effects of climate change and monitor the stability of ice sheets. This map highlights the significance of elevation data in comprehending and conserving Antarctica's delicate ecosystem.
+Understanding the unique and fragile environment of Antarctica is crucial, and elevation plays a vital role in achieving this. By offering insights into the distribution of ice, glaciers, and landforms, scientists can study the effects of climate change and monitor the stability of ice sheets. Today, I opted for a simple elevation visualization using polar projection in ArcGIS Pro to gain a better understanding of this important information.
 
 🔗 High Resolution Version:
 - [LINK](data/d25_a/d25_a.png)
