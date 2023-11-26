@@ -38,6 +38,7 @@
 - [Day 23 3D: 3D Elevation Map of Ngari Prefecture, China](#-day-23-of-30-day-map-challenge-3d)
 - [Day 24 Black and White: Contour Map of Yosemite Wilderness, US](#-day-24-of-30-day-map-challenge-black-and-white)
 - [Day 25 Antarctica: Elevation of Antarctica](#-day-25-of-30-day-map-challenge-antarctica)
+- [Day 26 Minimal: A Simple 3D Elevation Map of Mount Everest](#-day-26-of-30-day-map-challenge-minimal)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -572,6 +573,23 @@ Understanding the unique and fragile environment of Antarctica is crucial, and e
 
 🎨 Tools used: ArcGIS Pro, and Adobe Illustrator
 
+## 💫 Day 26 of 30-Day Map Challenge: Minimal 
+
+### 🗺️ Topic: A Simple 3D Elevation Map of Mount Everest
+
+[![d26](https://imgur.com/olFTT0y.png)](/data/d26_minimal/d26_minimal.png)
+
+Check out this stunning 3D elevation map of Mount Everest, created for today's minimal theme. With its towering height of 8,848 meters, Mount Everest boasts the highest elevation on Earth. The simplicity of this map allows us to appreciate the unique and breathtaking nature of Mount Everest's elevation, reminding us of the grandeur and magnificence that lies within the world's tallest mountain. 
+
+🔗 High Resolution Version:
+- [LINK](/data/d26_minimal/d26_minimal.png)
+
+📍 Data Source:
+- [Copernicus DEM GLO-30](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30#description)
+
+🎨 Tools used: ArcGIS Pro, and Adobe Illustrator
+
+
 ## License
 
 All maps are licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/). 
@@ -587,4 +605,4 @@ All maps are licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/b
 
 Tags:
 
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx #taz #tazriver #riverrem #relativeelevationmodel #elevation #elevationvisualization #rayshader #r #3d
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx #taz #tazriver #riverrem #relativeelevationmodel #elevation #elevationvisualization #rayshader #r #3d #MountEverest #MinimalistMap #MinimalElevation #NatureUnveiled
