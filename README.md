@@ -39,6 +39,7 @@
 - [Day 24 Black and White: Contour Map of Yosemite Wilderness, US](#-day-24-of-30-day-map-challenge-black-and-white)
 - [Day 25 Antarctica: Elevation of Antarctica](#-day-25-of-30-day-map-challenge-antarctica)
 - [Day 26 Minimal: A Simple 3D Elevation Map of Mount Everest](#-day-26-of-30-day-map-challenge-minimal)
+- [Day 27 Dot: Relative Wealth Index in Indian Continent](#-day-27-of-30-day-map-challenge-dot-map)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -589,6 +590,21 @@ Check out this stunning 3D elevation map of Mount Everest, created for today's m
 
 🎨 Tools used: ArcGIS Pro, and Adobe Illustrator
 
+## 💫 Day 27 of 30-Day Map Challenge: Dot Map 
+
+### 🗺️ Topic: Relative Wealth Index in Indian Continent
+
+[![d27](https://imgur.com/AoawaUx.png)](/data/d27_dot/d27_dot.png)
+
+For the day's theme, I created a dot map that displays the relative wealth index (RWI) of the Indian subcontinent, which includes both Pakistan and India. This map is an effective tool for comprehending and analyzing the economic landscape of this region. The wealth index offers valuable insights into the distribution of wealth and resources, highlighting areas of prosperity and those requiring economic development. 
+
+🔗 High Resolution Version:
+- [LINK](/data/d27_dot/d27_dot.png)
+
+📍 Data Source:
+- [Humdata, Relative Wealth Index](https://data.humdata.org/dataset/relative-wealth-index)
+
+🎨 Tools used: QGIS, and Adobe Illustrator
 
 ## License
 
@@ -605,4 +621,5 @@ All maps are licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/b
 
 Tags:
 
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx #taz #tazriver #riverrem #relativeelevationmodel #elevation #elevationvisualization #rayshader #r #3d #MountEverest #MinimalistMap #MinimalElevation #NatureUnveiled
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx #taz #tazriver #riverrem #relativeelevationmodel #elevation #elevationvisualization #rayshader #r #3d #MountEverest #MinimalistMap #MinimalElevation #NatureUnveiled #Wealth #WealthIndex #IndianSubcontinent #EconomicDevelopment
+
