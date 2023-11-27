@@ -596,7 +596,7 @@ Check out this stunning 3D elevation map of Mount Everest, created for today's m
 
 [![d27](https://imgur.com/AoawaUx.png)](/data/d27_dot/d27_dot.png)
 
-For the day's theme, I created a dot map that displays the relative wealth index (RWI) of the Indian subcontinent, which includes both Pakistan and India. This map is an effective tool for comprehending and analyzing the economic landscape of this region. The wealth index offers valuable insights into the distribution of wealth and resources, highlighting areas of prosperity and those requiring economic development. 
+For today's theme, I created a dot map that displays the relative wealth index (RWI) of the Indian subcontinent, which includes both Pakistan and India. This map is an effective tool for comprehending and analyzing the economic landscape of this region. The wealth index offers valuable insights into the distribution of wealth and resources, highlighting areas of prosperity and those requiring economic development. 
 
 🔗 High Resolution Version:
 - [LINK](/data/d27_dot/d27_dot.png)
