@@ -40,6 +40,7 @@
 - [Day 25 Antarctica: Elevation of Antarctica](#-day-25-of-30-day-map-challenge-antarctica)
 - [Day 26 Minimal: A Simple 3D Elevation Map of Mount Everest](#-day-26-of-30-day-map-challenge-minimal)
 - [Day 27 Dot: Relative Wealth Index in Indian Continent](#-day-27-of-30-day-map-challenge-dot-map)
+- [Day 28 Is this a chart or a map: Map/Chart showing the Frequency of Articles by Country](#-day-28-of-30-day-map-challenge-is-this-a-chart-or-a-map)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -605,6 +606,21 @@ For today's theme, I created a dot map that displays the relative wealth index (
 - [Humdata, Relative Wealth Index](https://data.humdata.org/dataset/relative-wealth-index)
 
 🎨 Tools used: QGIS, and Adobe Illustrator
+
+## 💫 Day 28 of 30-Day Map Challenge: Is this a chart or a map?
+
+### 🗺️ Topic: Map/Chart showing the Frequency of Articles by Country
+
+[![d28](https://imgur.com/hXWhxFW.png)](/data/d28_mapchart/d28_mapchart.png)
+
+This year, I published my first PhD review paper in the International Journal of Disaster Risk Reduction, which provides a scientometric review of studies that utilized Google Earth Engine for disaster management applications. For that paper, I designed a map/chart that shows the frequency of articles published by each country. So for this day map challenge, I am sharing the modified version of my created map/chart. Do you think this is a map or should we refer to it as a chart?
+
+🔗 High-Resolution Version:
+- [LINK](/data/d28_mapchart/d28_mapchart.png)
+
+📍 Source (Link to my review paper): 
+- [Waleed, M., & Sajjad, M. (2023). On the emergence of geospatial cloud-based platforms for disaster risk management: A global scientometric review of google earth engine applications. International Journal of Disaster Risk Reduction, 104056.](https://doi.org/10.1016/j.ijdrr.2023.104056)
+
 
 ## License
 
