@@ -41,6 +41,7 @@
 - [Day 26 Minimal: A Simple 3D Elevation Map of Mount Everest](#-day-26-of-30-day-map-challenge-minimal)
 - [Day 27 Dot: Relative Wealth Index in Indian Continent](#-day-27-of-30-day-map-challenge-dot-map)
 - [Day 28 Is this a chart or a map: Map/Chart showing the Frequency of Articles by Country](#-day-28-of-30-day-map-challenge-is-this-a-chart-or-a-map)
+- [Day 29 Population: A 3D Map of Population Density in Denmark](#-day-29-of-30-day-map-challenge-population)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -621,6 +622,24 @@ This year, I published my first PhD review paper in the International Journal of
 📍 Source (Link to my review paper): 
 - [Waleed, M., & Sajjad, M. (2023). On the emergence of geospatial cloud-based platforms for disaster risk management: A global scientometric review of google earth engine applications. International Journal of Disaster Risk Reduction, 104056.](https://doi.org/10.1016/j.ijdrr.2023.104056)
 
+## 💫 Day 29 of 30-Day Map Challenge: Population 
+
+### 🗺️ Topic: A 3D Map of Population Density in Denmark
+
+[![d29](https://imgur.com/kVTKi0J.png)](/data/d29_population/d29_population.png)
+
+During the 30-Day Map Challenge, I noticed that many of fellow participants were using Aerialod with QGIS for 3D visualizations. Intrigued, I decided to use it for today's theme and created a map that displays the population distribution in Denmark. Despite its small size, Denmark has a highly educated population, a robust social welfare system, and a strong commitment to sustainable living, which are all factors that contribute to its consistent ranking as one of the happiest countries in the world.
+
+🔗 High Resolution Version:
+- [LINK](/data/d29_population/d29_population.png)
+
+📍 Data Source:
+- [Humdata](https://data.humdata.org/dataset/denmark-high-resolution-population-density-maps-demographic-estimates#)
+- [Aerialod](https://ephtracy.github.io/index.html?page=aerialod)
+
+🎨 Tools used: Aerialod, QGIS, and Adobe Illustrator
+
+
 
 ## License
 
@@ -637,5 +656,5 @@ All maps are licensed under [CC BY-NC-ND](https://creativecommons.org/licenses/b
 
 Tags:
 
- #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx #taz #tazriver #riverrem #relativeelevationmodel #elevation #elevationvisualization #rayshader #r #3d #MountEverest #MinimalistMap #MinimalElevation #NatureUnveiled #Wealth #WealthIndex #IndianSubcontinent #EconomicDevelopment
+ #30DayMapChallenge #DataVisualization #Cartography #Mapping #googleearthengine #geemap #python #arcgispro #qgis #adobeillustrator #adobephotoshop #cartoee #cartopy #geospatial #gis #remotesensing #earthengine #gee #viusalization #osmnx #taz #tazriver #riverrem #relativeelevationmodel #elevation #elevationvisualization #rayshader #r #3d #MountEverest #MinimalistMap #MinimalElevation #NatureUnveiled #Wealth #WealthIndex #IndianSubcontinent #EconomicDevelopment #Denmark #populationdensity
 
