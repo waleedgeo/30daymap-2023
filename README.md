@@ -42,6 +42,7 @@
 - [Day 27 Dot: Relative Wealth Index in Indian Continent](#-day-27-of-30-day-map-challenge-dot-map)
 - [Day 28 Is this a chart or a map: Map/Chart showing the Frequency of Articles by Country](#-day-28-of-30-day-map-challenge-is-this-a-chart-or-a-map)
 - [Day 29 Population: A 3D Map of Population Density in Denmark](#-day-29-of-30-day-map-challenge-population)
+- [Day 30 My Favourite: Grand Canyon River Relative Elevation Model (REM)](#-day-30-of-30-day-map-challenge-my-favourite)
 
 
 ## 💫 Day 1 of 30-Day Map Challenge: Points
@@ -639,7 +640,24 @@ During the 30-Day Map Challenge, I noticed that many of fellow participants were
 
 🎨 Tools used: Aerialod, QGIS, and Adobe Illustrator
 
+## 💫 Day 30 of 30-Day Map Challenge: My Favourite 
 
+### 🗺️ Topic: Grand Canyon River Relative Elevation Model (REM)
+
+[![d30](https://imgur.com/ryfMRvu.png)](/data/d30_fav/d30_fav.png)
+
+Out of all the maps I created for this month's challenge, my personal favorite is the [Taz River](#-day-21-of-30-day-map-challenge-raster) relative elevation model (REM) visualization. Therefore, on the last day, I decided to create a REM visualization of the Grand Canyon. The Grand Canyon in Arizona has an exceptional and distinctive elevation profile. Its unique topography showcases an awe-inspiring sight of towering cliffs and deep chasms, revealing millions of years of geological history.
+
+With this map, I officially end my journey of #30DayMapChallenge 🎉
+
+🔗 High Resolution Version:
+- [LINK](/data/d30_fav/d30_fav.png)
+
+📍 Data Source:
+- [Copernicus DEM GLO-30: Global 30m Digital Elevation Model](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_DEM_GLO30)
+- [RiverREM Python](https://github.com/OpenTopography/RiverREM)
+
+🎨 Tools used: RiverREM, QGIS, and Adobe Illustrator
 
 ## License
 
