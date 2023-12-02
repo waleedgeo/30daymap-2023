@@ -1,9 +1,12 @@
+
+![](https://imgur.com/3J6tL4D.gif)
+
 **Note:** 
 
-- This repository contains my maps for the 30-Day Map Challenge 2021.
+- This repository contains my maps for the 30-Day Map Challenge 2023.
 - Click on each map, to see its high resolution version!
 - All project files are available in the [data folder](/data/).
-- More data will be added after the end of this challenge.
+- Data & Codes for each project will be added in soon.
 - In case you use my map or find it insightful, please give a star to this repository, and share your thoughts with me, as I would love to hear your feedback.
 - For queries contact me at: 
     - [My Email](mailto:waleedgeo@outlook.com)
