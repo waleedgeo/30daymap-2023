@@ -1,7 +1,7 @@
 
 # My Journey of 30 Day Map Challenge (2023)
 
-![](https://imgur.com/3J6tL4D.gif)
+![Main Image](img/00_all_30daymap.webp)
 
 **Note:** 
 
@@ -54,7 +54,7 @@
 
 ### 🗺️ Topic: Global Flood Affected People
 
-[![Imgur](https://imgur.com/az9kzUM.png)](/data/figs/1_points.png)
+[![Imgur](img/1_points.webp)](/data/figs/1_points.png)
 
 📊 Since I have been working on flood modeling for over a year, I wanted to start the map challenge with the flood topic. This map shows where people were reported to be affected by major flood events between 1985-2010. The most affected regions include the US (Dallas, Pennsylvania), South America (Brazil, Bolivia), Africa (Burkina Faso, Gao, Botswana), Asia (Pakistan, India, Bangladesh), and Australia. Moreover, people in coastal cities were observed to be more frequently affected than the rest.
 
@@ -77,7 +77,7 @@
 
 ### 🗺️ Topic: Global Shipping Routes ⛴️
 
-[![d2](https://imgur.com/EmVH2hi.png)](/data/figs/2_lines_v2.png)
+[![d2](img/2_lines_v2.webp)](/data/figs/2_lines_v2.png)
 
 The map shows the major, moderate, and minor shipping routes globally. I got inspiration from Prof. [Qiusheng Wu](https://www.linkedin.com/in/giswqs/) paper in [JOSS](https://doi.org/10.21105/joss.03414) about the Python package [Leafmap](https://leafmap.org/) for these visualizations.
 While making the map, I got obsessed with these two colors so including both of them here.
@@ -103,7 +103,7 @@ NOTE:
 
 ### 🗺️ Topic: Urbanization Trends in Lagos, Nigeria (1985-2018)
 
-[![d3](https://imgur.com/QMTnlIs.png)](/data/figs/d3_polygons.png)
+[![d3](img/d3_polygons.webp)](/data/figs/d3_polygons.png)
 
 Mapping urbanization patterns always fascinates me. So, for the polygon theme, I used QGIS & #geemap, created a fishnet (~1 Km), and sampled the urban pixels in each zone.
 The map reveals that Lagos city has experienced rapid urbanization, with the urban area growing exponentially over the past few decades, especially after 2000's era. 
@@ -122,7 +122,7 @@ The map reveals that Lagos city has experienced rapid urbanization, with the urb
 
 ## 🗺️ Topic: A bad map of prefecture-level divisions of China
 
-[![d4](https://imgur.com/GJ7mYnD.png)](/data/d4_badmap/d4_badmap.png)
+[![d4](img/d4_badmap.webp)](/data/d4_badmap/d4_badmap.png)
 
 It may be the easiest theme of the challenge, but always make sure to avoid such common mistakes in cartographic designs: 
 
@@ -150,7 +150,7 @@ It may be the easiest theme of the challenge, but always make sure to avoid such
 
 _Click the image to see the timelapse:_
 
-[![d5Foo](https://imgur.com/66u1ml5.jpg)](https://www.youtube.com/embed/Ahshgcd9FR8)
+[![d5Foo](img/d5_analogmap.webp)](https://www.youtube.com/embed/Ahshgcd9FR8)
 
 
 This is by far the most difficult day for me. Being a digital cartographer, I have only thought of making a map with a computer. For this day, I looked into previous year's challenges and loved how they used day-to-day things to create a map. I quickly looked around and saw some shining red beans in my kitchen, and the rest you can see 😂
@@ -175,7 +175,7 @@ This is by far the most difficult day for me. Being a digital cartographer, I ha
 
 ### 🗺️ Topic: Asia's River Network
 
-[![d6](https://imgur.com/wDcWknL.png)](/data/d6_asia/d6_asia.png)
+[![d6](img/d6_asia.webp)](/data/d6_asia/d6_asia.png)
 
 Asia is well known for its river network, which is well-developed in the north, east, and south of the continent. Moreover, some of the world's largest river systems are in Asia, namely the Ganges and Brahmaputra, Yangtze, Yenisei, Lena, Ob, Amur, and Mekong.
 
@@ -193,7 +193,7 @@ Asia is well known for its river network, which is well-developed in the north, 
 
 ### 🗺️ Topic: Home to University!
 
-[![d7](https://imgur.com/2cGvxPT.png)](/data/d7_navigation/d7_navigation.png)
+[![d7](img/d7_navigation.webp)](/data/d7_navigation/d7_navigation.png)
 
 Bright colors on dark canvas always fascinate me. So here's my take on visualizing a road network and a destination route. The map shows my daily travel route from my home in Shum Shui Po, to my campus, Hong Kong Baptist University. The road network in neon blue is shown for just Kowloon, in which the red lines show the route. The road network with the route was prepared using the OSMnx python package and was later edited in Adobe Illustrator.
  
@@ -214,7 +214,7 @@ Bright colors on dark canvas always fascinate me. So here's my take on visualizi
 
 ### 🗺️ Topic: Diorama of Mount Kilimanjaro
 
-[![d8](https://imgur.com/pTMp4XD.png)](/data/d8_africa/d8_africa.png)
+[![d8](img/d8_africa.webp)](/data/d8_africa/d8_africa.png)
 
 Mount Kilimanjaro, located in Tanzania, is Africa's highest peak, standing tall at 5,895 meters. The reason I chose this place is because of Its unique blend of breathtaking beauty and iconic stature. Special thanks to John Nelson, who provided an amazing tutorial for designing 3D Diorama in ArcGIS Pro.
 
@@ -235,7 +235,7 @@ Mount Kilimanjaro, located in Tanzania, is Africa's highest peak, standing tall 
 
 ## 🗺️ Topic: Global Aridity Index
 
-[![d9](https://imgur.com/5cugyuA.png)](/data/d9_hexagons/d9_hexagons.png)
+[![d9](img/d9_hexagons.webp)](/data/d9_hexagons/d9_hexagons.png)
 
 For today's theme, I created hexagons in ArcGIS Pro (using the Generate Tessellation tool), resampled them in Google Earth Engine with Global Aridity Index (GAI) data, and visualized them in QGIS + Illustrator. Each hexagon has a circumradius of approx. 15 Km.
 
@@ -260,7 +260,12 @@ GAI is an important indicator because it provides a comprehensive visual represe
 
 **Click the GIF to load high resolution version**
 
-[![d10](https://imgur.com/OzhmajT.gif)](/data/d10_north_america/d10_na_optimized.gif)
+# test
+
+<img src="/data/d10_north_america/d10_na_optimized.gif" alt="GIF Animation" width="500"/>
+
+
+[![d10](/data/d10_north_america/d10_na_optimized.gif)](/data/d10_north_america/d10_na_optimized.gif)
 
 I have always admired animated maps/gifs for conveying time-series information. So, for the North American theme, I used the North American Drought Monitor (NADM) dataset in Google Earth Engine.
 The animated map shows that in 2023, North America experienced significant drought variations, with regions like California and the Great Plains facing severe water scarcity, impacting agriculture and increasing the risk of wildfires.
@@ -289,7 +294,7 @@ Shout-out to Prof. [Qiusheng Wu](https://wetlands.io/) for including cartoee in 
 
 ## 🗺️ Topic: A 3D Digitized Old Map of Balochistan
 
-[![d11](https://imgur.com/etHqAbQ.jpg)](/data/d11_retro/d11_retro.JPG)
+[![d11](img/d11_retro.webp)](/data/d11_retro/d11_retro.JPG)
 
 As a retro theme, I choose an old map of Balochistan (Pakistan), from the Imperial Gazetteer of India (1907-1909). Since the map resolution was low, I find it quite difficult to georeference and render it in 3D but still I managed (thanks to John Nelson amazing tutorials on vintage theme maps).
 
@@ -307,7 +312,7 @@ As a retro theme, I choose an old map of Balochistan (Pakistan), from the Imperi
 
 ### 🗺️ Topic: MANAUS City: Where Civilization Meets Wilderness
 
-[![d12](https://imgur.com/mGTBqf4.jpg)](/data/d12_south_america/d12_sa.jpg)
+[![d12](/data/d12_south_america/d12_sa.jpg)](/data/d12_south_america/d12_sa.jpg)
 
 A few weeks ago, I saw an aerial image of this place on social media and was instantly in love with the beauty of its landscape. So for today's theme, I chose this place called Manaus, located on the banks of the Negro River in northwestern Brazil.
 
@@ -332,7 +337,7 @@ For preparing this map poster, I used Maxar basemap image for 2021 and edited th
 
 **Click the GIF to load high resolution version**
 
-[![d13](https://imgur.com/r3LM1Hu.gif)](/data/d13_choropleth/d13_optimized.gif)
+[![d13](/data/d13_choropleth/d13_optimized.gif)](/data/d13_choropleth/d13_optimized.gif)
 
 
 Nighttime light (NTL) data is vital for identifying areas affected by power outages, infrastructure destruction, and population displacement in war conflict situations. I used sequential choropleth colors to visually represent changes in light intensity and highlight active regions. Although I initially aimed to depict the NTL variation in current months, I could only access data up until September (NTL data is not available after September IDK why!). 
@@ -356,7 +361,7 @@ Nevertheless, I am sharing all available data, including rasters, individual map
 
 **Click the GIF to load high resolution version**
 
-[![d14](https://imgur.com/aC4waPM.gif)](/data/d14_europe/d14_optimized.gif)
+[![d14](/data/d14_europe/d14_optimized.gif)](/data/d14_europe/d14_optimized.gif)
 
 Heat stress has become a significant global concern, impacting populations worldwide. In this analysis, I focused on Europe, examining the population exposed to heat stress at the ADM 0 level. While Europe may experience lower levels of heat stress compared to other regions, there are still populations within European states facing high levels of heat stress, as depicted in the bivariate population exposure map.
 
@@ -381,7 +386,7 @@ For analysis, I used Global Extreme Heat Hazard (5 year interval) layer provided
 
 ### 🗺️ Topic: Lahore Road Network
 
-[![d15](https://imgur.com/ummOlOa.png)](/data/d15_openstreetmap/d15_openstreetmap.png)
+[![d15](img/d15_openstreetmap.webp)](/data/d15_openstreetmap/d15_openstreetmap.png)
 
 Am I the only one obsessed with neon color road networks on dark backgrounds 😂? I have been waiting for this day since the start of this challenge as I wanted to create this masterpiece map showing the dense road network in Lahore city. I am also planning to prepare this kind of map after the 30DayMapChallenge, so feel free to suggest some beautiful cities with prominent road networks.
 
@@ -399,7 +404,7 @@ For preparing the map, I used the OSMnx python package, QGIS, and Adobe Illustra
 
 ### 🗺️ Topic: Frequency of Forest Fires in Australia (2001-2023)
 
-[![d16](https://imgur.com/V1vAYSJ.png)](/data/d16_oceania/d16_oceania.png)
+[![d16](img/d16_oceania.webp)](/data/d16_oceania/d16_oceania.png)
 
 So, for day 16 theme, I choose Australia, as the country has experienced devastating forest fires that have significantly impacted its ecosystems and communities. Various factors, including extreme heat, prolonged droughts, and strong winds, have fueled these fires. The frequency and intensity of the fires have increased, resulting in widespread destruction of forests, biodiversity loss, and wildlife displacement. From the map, it can be seen that between 2001 and 2023, 3882 forest fires have been recorded.
 
@@ -417,7 +422,7 @@ For analysis, I used Google Earth Engine in Geemap, and exported results in ArcG
 
 ### 🗺️ Topic: Pakistan Migration Flow (1990-2015)
 
-[![d17](https://imgur.com/J9At5LK.png)](/data/d17_flow/d17_flow.png)
+[![d17](img/d17_flow.webp)](/data/d17_flow/d17_flow.png)
 
 Last year, I was awarded a PhD fellowship at HKBU and had to leave Pakistan. Interestingly, during the same year, Pakistan witnessed the highest recorded number of people (280,000 individuals) leaving the country, resulting in the highest migration rate ever documented in its history. Today, I wanted to explore the theme of migration and depict the flow of people in and out of the country.
 
@@ -442,7 +447,7 @@ To create these visualizations, I utilized open-source datasets from Nature pape
 
 ### 🗺️ Topic: Nitrogen Dioxide Concentration variation in COVID (2019 & 2020)
 
-[![d18](https://imgur.com/0fkDFGr.png)](/data/d18_atmosphere/d18_atmosphere.gif)
+[![d18](/data/d18_atmosphere/d18_atmosphere.gif)](/data/d18_atmosphere/d18_atmosphere.gif)
 
 During the COVID-19 pandemic, significant changes in nitrogen dioxide (NO2) concentrations were observed globally. With lockdowns and travel restrictions, reduced industrial and transportation activities led to a noticeable decline in NO2 levels. So, for today's theme, I used Sentinel-5P NO2 data to visualize the trends in NO2 for the pre covid (2019) and during covid (2020) period. Overall, a decreasing trend is prominent from the visualization. This unprecedented reduction in NO2 levels provides a glimpse of the environmental impact of reduced human activity during the pandemic.
 
@@ -459,7 +464,7 @@ During the COVID-19 pandemic, significant changes in nitrogen dioxide (NO2) conc
 
 ### 🗺️ Topic: Karachi's Road Network
 
-[![d19](https://imgur.com/8Y63Jlm.png)](/data/d19_5minutemap/d19_5minutemap.png)
+[![d19](img/d19_5minutemap.webp)](/data/d19_5minutemap/d19_5minutemap.png)
 
 Python OSMnx python package is a great tool to make quick OSM visualizations. So for today's 5 minute map theme, I used the OSMnx package to visualize Karachi's road network.
 
@@ -499,7 +504,7 @@ For those who are interested in experiencing the hike themselves, I have include
 
 ### 🗺️ Topic: River Taz River (Russia) Relative Elevation Model
 
-[![d21](https://imgur.com/g1aLzFC.png)](/data/d21_raster/d21_raster.png)
+[![d21](img/d21_raster.webp)](/data/d21_raster/d21_raster.png)
 
 Recently, I saw a stunning map poster featuring the Taz River, and I was truly captivated by the breathtaking beauty of this landscape. To align with today's raster theme, I utilized a River Relative Elevation Model (REM) derived from the GLC-30 Digital Elevation Model (DEM) dataset. To evaluate the REM, I employed the RiverREM Python package and ultimately brought the poster to life using Illustrator. It was an incredible experience to combine data analysis and artistic design to showcase the magnificence of the Taz River.
 
@@ -516,7 +521,7 @@ Recently, I saw a stunning map poster featuring the Taz River, and I was truly c
 ## 💫 Day 22 of 30-Day Map Challenge: North is not always up!
 ### 🗺️ Topic: A 3D bathymetric diorama of Tonga trench
 
-[![d22](https://imgur.com/EHaQy9f.png)](/data/d22_north/d22_north.png)
+[![d22](img/d22_north.webp)](/data/d22_north/d22_north.png)
 
 When considering the theme for this project, the idea of exploring the north direction in 3D maps immediately came to mind. I've been intrigued by John Nelson's bathymetric diorama for some time now, and today I finally decided to give it a try. This visualization aims to showcase that in 3D maps, the north direction is not always at the top.
 For this particular visualization, I selected the Tonga Trench, located in the southwestern Pacific Ocean. It holds the distinction of being the deepest trench in the Southern hemisphere and the second deepest on Earth, surpassed only by the Mariana Trench. To create this map, I utilized ArcGIS Pro and Adobe Illustrator, following an incredible tutorial by John Nelson.
@@ -535,7 +540,7 @@ For this particular visualization, I selected the Tonga Trench, located in the s
 
 ### 🗺️ Topic: 3D Elevation Map of Ngari Prefecture, China
 
-[![d23](https://imgur.com/ZZWA6Ae.png)](/data/d23_3d/d23_3d.png)
+[![d23](img/d23_3d.webp)](/data/d23_3d/d23_3d.png)
 
 Excited to share my first-ever 3D elevation map created using Rayshader R package! Working with R and Rayshader was a challenging yet rewarding experience. Thanks to the comprehensive documentation and numerous tutorials available, I was able to navigate through the process smoothly.
 
@@ -554,7 +559,7 @@ The map showcases the Ngari Prefecture, also known as Ali Prefecture, located in
 
 ### 🗺️ Topic: Contour Map of Yosemite Wilderness, US
 
-[![d24](https://imgur.com/kmlfj9W.png)](/data/d24_bw/d24_bw.png)
+[![d24](img/d24_bw.webp)](/data/d24_bw/d24_bw.png)
 
 For today's theme, I have created a contour map to showcase the changes in elevation within the Yosemite Wilderness, US. Contours provide a swift and informative way to visualize the varying terrain, as their spacing and pattern unveil the landscape's characteristics. For this particular project, I opted for the black and white theme, by using light shades for the contour lines against a darker background. For creating this map, I downloaded the high resolution LIDAR based elevation data from OpenTopography, and processed it in ArcGIS Pro. Later on, I finalized the map in Adobe Illustrator.
 
@@ -570,7 +575,7 @@ For today's theme, I have created a contour map to showcase the changes in eleva
 
 ### 🗺️ Topic: Elevation of Antarctica
 
-[![d25](https://imgur.com/7SrA452.png)](/data/d25_a/d25_a.png)
+[![d25](img/d25_a.webp)](/data/d25_a/d25_a.png)
 
 Understanding the unique and fragile environment of Antarctica is crucial, and elevation plays a vital role in achieving this. By offering insights into the distribution of ice, glaciers, and landforms, scientists can study the effects of climate change and monitor the stability of ice sheets. Today, I opted for a simple elevation visualization using polar projection in ArcGIS Pro to gain a better understanding of this important information.
 
@@ -586,7 +591,7 @@ Understanding the unique and fragile environment of Antarctica is crucial, and e
 
 ### 🗺️ Topic: A Simple 3D Elevation Map of Mount Everest
 
-[![d26](https://imgur.com/olFTT0y.png)](/data/d26_minimal/d26_minimal.png)
+[![d26](img/d26_minimal.webp)](/data/d26_minimal/d26_minimal.png)
 
 Check out this stunning 3D elevation map of Mount Everest, created for today's minimal theme. With its towering height of 8,848 meters, Mount Everest boasts the highest elevation on Earth. The simplicity of this map allows us to appreciate the unique and breathtaking nature of Mount Everest's elevation, reminding us of the grandeur and magnificence that lies within the world's tallest mountain. 
 
@@ -602,7 +607,7 @@ Check out this stunning 3D elevation map of Mount Everest, created for today's m
 
 ### 🗺️ Topic: Relative Wealth Index in Indian Continent
 
-[![d27](https://imgur.com/AoawaUx.png)](/data/d27_dot/d27_dot.png)
+[![d27](img/d27_dot.webp)](/data/d27_dot/d27_dot.png)
 
 For today's theme, I created a dot map that displays the relative wealth index (RWI) of the Indian subcontinent, which includes both Pakistan and India. This map is an effective tool for comprehending and analyzing the economic landscape of this region. The wealth index offers valuable insights into the distribution of wealth and resources, highlighting areas of prosperity and those requiring economic development. 
 
@@ -618,7 +623,7 @@ For today's theme, I created a dot map that displays the relative wealth index (
 
 ### 🗺️ Topic: Map/Chart showing the Frequency of Articles by Country
 
-[![d28](https://imgur.com/hXWhxFW.png)](/data/d28_mapchart/d28_mapchart.png)
+[![d28](img/d28_mapchart.webp)](/data/d28_mapchart/d28_mapchart.png)
 
 This year, I published my first PhD review paper in the International Journal of Disaster Risk Reduction, which provides a scientometric review of studies that utilized Google Earth Engine for disaster management applications. For that paper, I designed a map/chart that shows the frequency of articles published by each country. So for this day map challenge, I am sharing the modified version of my created map/chart. Do you think this is a map or should we refer to it as a chart?
 
@@ -632,7 +637,7 @@ This year, I published my first PhD review paper in the International Journal of
 
 ### 🗺️ Topic: A 3D Map of Population Density in Denmark
 
-[![d29](https://imgur.com/kVTKi0J.png)](/data/d29_population/d29_population.png)
+[![d29](img/d29_population.webp)](/data/d29_population/d29_population.png)
 
 During the 30-Day Map Challenge, I noticed that many of fellow participants were using Aerialod with QGIS for 3D visualizations. Intrigued, I decided to use it for today's theme and created a map that displays the population distribution in Denmark. Despite its small size, Denmark has a highly educated population, a robust social welfare system, and a strong commitment to sustainable living, which are all factors that contribute to its consistent ranking as one of the happiest countries in the world.
 
@@ -649,7 +654,7 @@ During the 30-Day Map Challenge, I noticed that many of fellow participants were
 
 ### 🗺️ Topic: Grand Canyon River Relative Elevation Model (REM)
 
-[![d30](https://imgur.com/ryfMRvu.png)](/data/d30_fav/d30_fav.png)
+[![d30](img/d30_fav.webp)](/data/d30_fav/d30_fav.png)
 
 Out of all the maps I created for this month's challenge, my personal favorite is the [Taz River](#-day-21-of-30-day-map-challenge-raster) relative elevation model (REM) visualization. Therefore, on the last day, I decided to create a REM visualization of the Grand Canyon. The Grand Canyon in Arizona has an exceptional and distinctive elevation profile. Its unique topography showcases an awe-inspiring sight of towering cliffs and deep chasms, revealing millions of years of geological history.
 
