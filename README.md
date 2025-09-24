@@ -1,7 +1,7 @@
 
 # My Journey of 30 Day Map Challenge (2023)
 
-![Main Image](img/00_all_30daymap.webp)
+![Main Image](img/d0_all_30daymap.webp)
 
 **Note:** 
 
@@ -54,7 +54,7 @@
 
 ### 🗺️ Topic: Global Flood Affected People
 
-[![Imgur](img/1_points.webp)](/data/figs/1_points.png)
+[![Imgur](img/d1_points.webp)](/data/figs/1_points.png)
 
 📊 Since I have been working on flood modeling for over a year, I wanted to start the map challenge with the flood topic. This map shows where people were reported to be affected by major flood events between 1985-2010. The most affected regions include the US (Dallas, Pennsylvania), South America (Brazil, Bolivia), Africa (Burkina Faso, Gao, Botswana), Asia (Pakistan, India, Bangladesh), and Australia. Moreover, people in coastal cities were observed to be more frequently affected than the rest.
 
@@ -77,7 +77,7 @@
 
 ### 🗺️ Topic: Global Shipping Routes ⛴️
 
-[![d2](img/2_lines_v2.webp)](/data/figs/2_lines_v2.png)
+[![d2](img/d2_lines_v2.webp)](/data/figs/2_lines_v2.png)
 
 The map shows the major, moderate, and minor shipping routes globally. I got inspiration from Prof. [Qiusheng Wu](https://www.linkedin.com/in/giswqs/) paper in [JOSS](https://doi.org/10.21105/joss.03414) about the Python package [Leafmap](https://leafmap.org/) for these visualizations.
 While making the map, I got obsessed with these two colors so including both of them here.
@@ -262,17 +262,8 @@ GAI is an important indicator because it provides a comprehensive visual represe
 
 # test
 
-<img src="img/d10_na_optimized.gif" alt="GIF Animation" width="500"/>
 
-
-[![d10](img/d10_na_optimized.gif)](/data/d10_north_america/d10_na_optimized.gif)
-
-# test 2
-
-<img src="img/d10_na_optimized_full.gif" alt="GIF Animation" width="500"/>
-
-
-[![d10](img/d10_na_optimized_full.gif)](/data/d10_north_america/d10_na_optimized.gif)
+[![d10](img/d10_NorthAmerica.gif)](/data/d10_north_america/d10_NorthAmerica_optimized.gif)
 
 
 I have always admired animated maps/gifs for conveying time-series information. So, for the North American theme, I used the North American Drought Monitor (NADM) dataset in Google Earth Engine.
@@ -320,7 +311,7 @@ As a retro theme, I choose an old map of Balochistan (Pakistan), from the Imperi
 
 ### 🗺️ Topic: MANAUS City: Where Civilization Meets Wilderness
 
-[![d12](img/d12_sa.webp)](/data/d12_south_america/d12_sa.jpg)
+[![d12](img/d12_Manus.webp)](/data/d12_south_america/d12_sa.jpg)
 
 A few weeks ago, I saw an aerial image of this place on social media and was instantly in love with the beauty of its landscape. So for today's theme, I chose this place called Manaus, located on the banks of the Negro River in northwestern Brazil.
 
@@ -345,7 +336,7 @@ For preparing this map poster, I used Maxar basemap image for 2021 and edited th
 
 **Click the GIF to load high resolution version**
 
-[![d13](img/d13_optimized.gif)](/data/d13_choropleth/d13_optimized.gif)
+[![d13](img/d13_Palestine_ntl.gif)](/data/d13_choropleth/d13_optimized.gif)
 
 
 Nighttime light (NTL) data is vital for identifying areas affected by power outages, infrastructure destruction, and population displacement in war conflict situations. I used sequential choropleth colors to visually represent changes in light intensity and highlight active regions. Although I initially aimed to depict the NTL variation in current months, I could only access data up until September (NTL data is not available after September IDK why!). 
@@ -369,7 +360,7 @@ Nevertheless, I am sharing all available data, including rasters, individual map
 
 **Click the GIF to load high resolution version**
 
-[![d14](img/d14_main.gif)](/data/d14_europe/d14_optimized.gif)
+[![d14](img/d14_Europe_heatrisk.gif)](/data/d14_europe/d14_optimized.gif)
 
 Heat stress has become a significant global concern, impacting populations worldwide. In this analysis, I focused on Europe, examining the population exposed to heat stress at the ADM 0 level. While Europe may experience lower levels of heat stress compared to other regions, there are still populations within European states facing high levels of heat stress, as depicted in the bivariate population exposure map.
 
@@ -455,7 +446,7 @@ To create these visualizations, I utilized open-source datasets from Nature pape
 
 ### 🗺️ Topic: Nitrogen Dioxide Concentration variation in COVID (2019 & 2020)
 
-[![d18](img/d18_atmosphere.gif)](/data/d18_atmosphere/d18_atmosphere.gif)
+[![d18](img/d18_covid_no2.gif)](/data/d18_atmosphere/d18_atmosphere.gif)
 
 During the COVID-19 pandemic, significant changes in nitrogen dioxide (NO2) concentrations were observed globally. With lockdowns and travel restrictions, reduced industrial and transportation activities led to a noticeable decline in NO2 levels. So, for today's theme, I used Sentinel-5P NO2 data to visualize the trends in NO2 for the pre covid (2019) and during covid (2020) period. Overall, a decreasing trend is prominent from the visualization. This unprecedented reduction in NO2 levels provides a glimpse of the environmental impact of reduced human activity during the pandemic.
 
